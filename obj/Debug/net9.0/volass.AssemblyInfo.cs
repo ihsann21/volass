@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("volass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75214b0bf25596cbefb8a681590397c3f40bdbee")]
 [assembly: System.Reflection.AssemblyProductAttribute("volass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("volass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
