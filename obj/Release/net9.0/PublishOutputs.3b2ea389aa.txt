@@ -1,0 +1,7 @@
+/Users/ihsantanriverdi/volass/publish/volass
+/Users/ihsantanriverdi/volass/publish/appsettings.Development.json
+/Users/ihsantanriverdi/volass/publish/appsettings.json
+/Users/ihsantanriverdi/volass/publish/volass.dll
+/Users/ihsantanriverdi/volass/publish/volass.deps.json
+/Users/ihsantanriverdi/volass/publish/volass.runtimeconfig.json
+/Users/ihsantanriverdi/volass/publish/volass.pdb

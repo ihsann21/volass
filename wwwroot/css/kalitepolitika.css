@@ -1,0 +1,62 @@
+.kalite-politikamiz-page {
+    font-family: Arial, sans-serif;
+    background-color: transparent;
+    margin: 0;
+    padding: 0;
+}
+
+.image-content-kalite {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+   
+}
+
+.image-content-kalite img {
+    width: 100vw;
+    height: 400px;
+    object-fit: cover; /* Görselin tam oturmasını sağlar */
+}
+
+.content-section-kalite {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    width: 100vw;
+    flex-direction: column;
+    align-items: center;
+    background: url("/images/logo/bey.jpg") no-repeat center center;
+    background-size:cover ;
+    justify-content: center;
+    text-align: left;
+    padding: 60px 20px;
+    /* Yazıları resmin altına kaydır */
+}
+
+.text-content-kalite {
+    line-height: 1.6;
+    background-color: transparent; /* Okunabilirlik için arka plan ekleyelim */
+    padding: 20px;
+    margin-top: 375px;
+    border-radius: 10px;
+}
+
+.text-content-kalite h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #000;
+}
+
+.text-content-kalite p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    color: black;
+}
+
+@media (max-width: 768px) {
+    .text-content-kalite {
+        width: 90%;
+        text-align: center;
+    }
+}

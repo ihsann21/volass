@@ -1,0 +1,113 @@
+/* Projelerim Bölümü */
+.projelerimiz-page{
+    background-color: transparent;
+}
+.projects-section-proje {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column; /* İçeriği dikey olarak sıralar */
+    background: url("/images/logo/bey.jpg") no-repeat center center;
+  background-size:cover ;
+    align-items: center; 
+    width: 100vw;
+}
+
+/* Header arkaplan resmi */
+.header-background {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 400px; /* Üstte belirgin bir alan kaplasın */
+    background: url('/images/logo/projeler.jpg') no-repeat center center/cover; /* Görseli ekle */
+    
+    z-index: -1;
+}
+.projects-section-proje h1 {
+    font-size: 2.5rem;
+    font-family: 'Josefin Sans', sans-serif ;
+    font-weight: 500;    
+    margin-bottom: 15px;
+    color: #333;
+}
+
+/* Grid Yapısı */
+.projects-grid-proje {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    justify-content: center; /* Grid elemanlarını ortala */
+    width: 100%; /* Genişlik tamamen kapsansın */
+    max-width: 1200px; /* İçeriği sınırla */
+}
+
+/* Proje Kutusu */
+.project-item-proje {
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    border: 3px solid gold;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.project-item-proje img {
+    width: 100%; /* Görselin genişliğini kutunun genişliğine ayarla */
+    height: 100%; /* Görselin yüksekliğini kutunun yüksekliğine ayarla */
+    object-fit: cover; /* Görseli kutuya tam sığdır */
+    display: block; /* Vars*/
+      transition: transform 0.6s ease;
+    
+}
+
+.project-item-proje:hover img {
+    transform: scale(1.1); /* Hover durumunda görsel büyütme */
+}
+
+/* Overlay (Üst Katman) */
+.project-overlay-proje {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Arka plan şeffaf */
+    color: #fff;
+    padding: 10px;
+    text-align: left; /* Yazıyı sola hizala */
+    display: flex; /* İkon ve yazıyı yan yana diz */
+    align-items: center; /* İkon ve yazıyı dikey olarak ortala */
+    gap: 10px; /* İkon ile yazı arasında boşluk */
+    flex-direction: row-reverse; /* İkon solda, yazı sağda */
+}
+.project-item-proje:hover .project-overlay-proje {
+    transform: translateY(0); /* Hover durumunda overlay görünür */
+}
+.project-item-proje:hover img {
+    transform: scale(1.1); /* Hover durumunda görsel büyütme */
+}
+/* Proje Başlığı */
+.project-overlay-proje h3 {
+    font-size: 1rem;
+    margin: 0;
+    flex: 1; /* Yazı genişlikte esnesin */
+}
+
+/* İkon */
+.project-overlay-proje .icon-proje {
+    font-size: 1.5rem;
+    color: #ffcc00; /* İkon rengi */
+    flex-shrink: 0; /* İkon boyutu küçülmesin */
+}
+@media (max-width: 768px) {
+    .projects-grid-proje {
+        grid-template-columns: repeat(2, 1fr); /* Mobilde 2 sütun */
+    }
+}
+
+@media (max-width: 480px) {
+    .projects-grid-proje {
+        grid-template-columns: repeat(1, 1fr); /* Daha küçük cihazlarda 1 sütun */
+    }
+}

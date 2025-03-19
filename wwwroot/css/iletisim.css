@@ -1,0 +1,162 @@
+/* Genel stil */
+.iletisim-page {
+    font-family: Arial, sans-serif;
+   background-color: transparent;
+}
+
+.container-iletisim{
+    display: flex;
+    justify-content: center; /* Yatay ortalama */
+    align-items: center; /* Dikey ortalama (isteğe bağlı) */
+    padding: 20px;
+    margin-top: -90px;
+    background: url("/images/logo/bey.jpg") no-repeat center center;
+  background-size:cover ;
+    width: 100vw;
+}
+
+.item-content-iletisim {
+    font-family: Arial, sans-serif;
+    margin: 20px auto; /* Ortalamayı sağlar */
+    padding: 20px;
+    width: 100%; 
+    background-color: transparent;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center; /* İçeriği ortalar */
+}
+.header-background-iletisim {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 500px; /* Üstte belirgin bir alan kaplasın */
+    background: url('/images/logo/contact.jpg') no-repeat center center/cover; /* Görseli ekle */
+    
+    z-index: -1;
+}
+.item-content-iletisim ul {
+    list-style: none; /* Varsayılan madde işaretlerini kaldır */
+    padding: 0;
+    margin: 0 0 20px 0;
+}
+
+.item-content-iletisim li {
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.item-content-iletisim li .inner {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* İkon ile metin arasındaki boşluk */
+}
+
+.item-content-iletisim li .fa {
+    font-size: 1.5rem; /* İkon boyutu */
+    color: black; /* İkon rengi */
+}
+
+.item-content-iletisim li .text {
+    font-size: 1rem;
+    line-height: 1.4;
+    color: #333;
+}
+
+/* Harita iframe stili */
+.item-content-iletisim iframe {
+    width: 100%; /* Harita genişliğini kapsayıcıya göre ayarla */
+    height: 400px; /* Harita yüksekliği */
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Mobil cihazlar için responsive */
+@media (max-width: 768px) {
+    .item-content-iletisim {
+        padding: 10px;
+    }
+
+    .item-content-iletisim li {
+        flex-direction: column; /* İkon ve metin alt alta gelsin */
+        align-items: flex-start;
+    }
+
+    .item-content-iletisim li .inner {
+        gap: 5px; /* İkon ile metin arasındaki boşluğu azalt */
+    }
+
+    .item-content-iletisim iframe {
+        height: 300px; /* Mobilde harita yüksekliğini küçült */
+    }
+}
+
+/* Genel kapsayıcı */
+.contact-form {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contact-form h2 {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Form grubu */
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 5px;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    color: #333;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.form-group textarea {
+    resize: none; /* Kullanıcı yeniden boyutlandırmasın */
+}
+
+/* Gönder butonu */
+.submit-btn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    font-size: 1.2rem;
+    color: #fff;
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.submit-btn:hover {
+    background-color: gold;
+}
+
+/* Responsive Tasarım */
+@media (max-width: 768px) {
+    .contact-form {
+        padding: 10px;
+    }
+}

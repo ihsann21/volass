@@ -1,0 +1,300 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="utf-8" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Volass Grup</title>
+<link rel="canonical" href="https://volassgrup.com" />
+
+    <meta name="description" content="Volass Grup - İnşaat, mühendislik ve yatırım projelerinde uzmanlaşmış bir firmadır. Sağlam Temeller, Kalıcı Değerler." />
+
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+    <link rel="icon" type="image/x-icon" href="~/favicon.ico" />
+
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/hakkimizda.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/vizyon.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/kalitepolitika.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/cevreveis.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/iletisim.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/projeler.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/faaliyetalani.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/fmimar.css" asp-append-version="true" />
+        <link rel="stylesheet" href="~/css/spinner.css" asp-append-version="true" />
+
+    <link rel="stylesheet" href="~/css/fmuhendis.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/fyatirim.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/katalog.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/projedetay.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/volass.styles.css" asp-append-version="true" />
+
+
+    
+</head>
+<body>
+    <!-- Header Section -->
+    <div id="header-section">
+        
+        <header class="custom-header ">
+            <div class="logo-container">
+                <a href="/Home/Anasayfa">
+                    <img src="/images/logo/logo.png" class="site-logo" alt="Site Logo">
+                </a>
+            </div>
+            <nav class="custom-navbar">
+                
+                <ul>
+                    <li class="nav-item">
+                            <a class="nav-link " asp-area="" asp-controller="Home" asp-action="Anasayfa">ANASAYFA</a>
+                    </li>
+
+                    <li class="nav-item kurumsal-menu">
+                        <a class="nav-link " asp-area="" asp-controller="Home" asp-action="Hakkimizda">KURUMSAL</a>
+                       
+                        <ul class="popup-menu">
+                            <li><a href="/Home/Hakkimizda">Hakkımızda</a></li>
+                            <li><a href="/Home/Vizyon">Vizyon & Misyon</a></li>
+                            <li><a href="/Home/cevreveis">Çevre ve İş Sağlığı</a></li>
+                            <li><a href="/Home/kalitepolitika">Kalite Politikamız</a></li>
+                            <li><a href="/Home/Katalog">Katalog</a></li>
+                            <li><a href="#">KVKK</a></li>
+                            <li><a href="#">Ekibimiz</a></li>
+                        </ul>
+                        
+                    </li>
+                            
+                    
+
+                    <li class="nav-item faaliyet-menu">
+                            <a class="nav-link " asp-area="" asp-controller="Home" asp-action="Faaliyetalani">FAALİYET ALANLARI</a>
+                            <ul class="popup-menu">
+                            <li><a href="/Home/Faaliyetmuhendis">Mühendislik ve İnşaat</a></li>
+                            <li><a href="/Home/Faaliyetmimar">Tasarım ve Mimarlık</a></li>
+                            <li><a href="/Home/Faaliyetyatirim">Gayrimenkul ve Yatırım</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item proje-menu">
+                            <a class="nav-link " asp-area="" asp-controller="Home" asp-action="Projeler">PROJELER</a>
+                             
+                        <ul class="popup-menu">
+                            <li><a href="/Home/TProjeler">Tamamlanan Projeler</a></li>
+                            <li><a href="/Home/DEProjeler">Devam Eden Projeler</a></li>
+                        </ul>
+                        
+                    </li>
+                    
+                     <li class="nav-item">
+                            <a class="nav-link " asp-area="" asp-controller="Contact" asp-action="Iletisim">İLETİŞİM</a>
+                    </li>
+                </ul>
+                
+
+</div>
+
+    
+<!-- Hamburger Butonu -->
+<!-- Hamburger Butonu -->
+<div class="hamburger-menu" onclick="toggleMenu()">
+  <span></span>
+  <span></span>
+  <span></span>
+</div>
+
+<!-- Mobil Menü -->
+<div class="mobile-menu" id="mobileMenu">
+  <ul>
+    <li>
+      <a href="/Home/Anasayfa">ANASAYFA</a>
+    </li>
+
+    <!-- KURUMSAL -->
+    <li>
+      <!-- Metnin yanında buton -->
+      <div class="submenu-header">
+      <a class="submenu-title" href="/Home/Hakkimizda">KURUMSAL</a>
+
+  <!-- Yanındaki + butonu (tıklanınca alt menü aç/kapa) -->
+  <span class="plus-icon" onclick="toggleAccordion('kurumsalSubMenu')"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+  <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+</svg></span>
+  </div>
+      <!-- Alt başlıklar -->
+      <ul id="kurumsalSubMenu" style="display: none;">
+        <li><a href="/Home/Hakkimizda" class="submenu-sub">HAKKIMIZDA</a></li>
+        <li><a href="/Home/Vizyon" class="submenu-sub">MİSYON - VİZYON</a></li>
+        <li><a href="/Home/Cevreveis" class="submenu-sub">ÇEVRE VE İŞ SAĞLIĞI</a></li>
+        <li><a href="/Home/Kalitepolitika" class="submenu-sub">KALİTE POLİTİKAMIZ</a></li>
+        <li><a href="/Home/Katalog" class="submenu-sub">KATALOG</a></li>
+
+      </ul>
+    </li>
+
+    <!-- FAALİYET ALANLARI -->
+    <li>
+              <div class="submenu-header">
+       
+      <a class="submenu-title" href="/Home/Faaliyetalani">FAALİYET ALANLARI</a>
+
+  <!-- Yanındaki + butonu (tıklanınca alt menü aç/kapa) -->
+  <span class="plus-icon" onclick="toggleAccordion('faaliyetSubMenu')"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+  <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+</svg></span>
+    </div>
+
+      <ul id="faaliyetSubMenu" style="display: none;">
+        <li><a href="/Home/Faaliyetmuhendis" class="submenu-sub">MÜHENDİSLİK VE İNŞAAT</a></li>
+        <li><a href="/Home/Faaliyetmimar" class="submenu-sub">TASARIM VE MİMARLIK</a></li>
+        <li><a href="/Home/Faaliyetyatirim" class="submenu-sub">GAYRİMENKUL VE YATIRIM</a></li>
+      </ul>
+    </li>
+
+    <!-- PROJELER -->
+    <li>
+              <div class="submenu-header">
+     
+      <a class="submenu-title" href="/Home/TProjeler">PROJELER</a>
+
+  <!-- Yanındaki + butonu (tıklanınca alt menü aç/kapa) -->
+  <span class="plus-icon" onclick="toggleAccordion('projelerSubMenu')"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
+  <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
+</svg></span>
+    </div>
+      <ul id="projelerSubMenu" style="display: none;">
+        <li><a href="/Home/TProjeler" class="submenu-sub">TAMAMLANAN PROJELER</a></li>
+        <li><a href="/Home/DEProjeler" class="submenu-sub">DEVAM EDEN PROJELER</a></li>
+      </ul>
+    </li>
+
+    <li>
+      <a href="/Contact/Iletisim">İLETİŞİM</a>
+    </li>
+  </ul>
+</div>
+
+
+
+
+
+                
+            </nav>
+        </header>
+    </div>
+
+    <div class="container">
+        <main role="main" >
+            @RenderBody()
+            
+        </main>
+    </div>
+
+
+<footer class="footer hidden">
+  <div class="column">
+        <div class="logo">
+            <img src="/images/logo/logo.png" alt="Duygu İnşaat Logo" width="100">
+        </div>
+    </div>
+
+    <div class="column">
+        <h3>KURUMSAL</h3>
+        <ul>
+            <li><a href="/Home/Hakkimizda">Hakkımızda</a></li>
+            <li><a href="/Home/Vizyon">Misyon - Vizyon</a></li>
+            <li><a href="#">Değerlerimiz</a></li>
+            <li><a href="/Home/Kalitepolitika">Kalite Politikamız</a></li>
+            <li><a href="/Home/Cevreveis">Çevre, İş Sağlığı ve Güvenliği Politikamız</a></li>
+            <li><a href="#">Açıklama</a></li>
+            <li><a href="#">Katalog</a></li>
+            <li><a href="#">KVKK</a></li>
+        </ul>
+    </div>
+
+    <div class="column contact-info">
+        
+        <h3>İLETİŞİM BİLGİLERİ</h3>
+        <ul class="contact-ul">
+
+        <li>
+            <div>
+                <span class="fa fa-map-marker"></span>
+                <span class="text">Yakacık Yeni mahalle botanik sokak   <span class="sl">No:10/A  <br> <span class="fa fa-map-marker"></span> Kat:1 Daire:02  KARTAL / İSTANBUL / TÜRKİYE</span></span>
+            </div>
+        </li>
+        <li>
+            <div>
+                <span class="fa fa-phone"></span>
+                <span class="text"> +90 535 258 1601</span>
+            </div>
+        </li>
+        <li>
+            <div class="inner">
+                <span class="fa fa-fax"></span>
+                <span class="text">Faks: +90 (216) 451 5255 </span>
+            </div>
+        </li>
+        <li>
+            <div class="inner">
+                <span class=" font-size-14 fa fa-envelope"></span>
+                <span class="text"> info@volassgrup.com</span>
+            </div>
+        </li>
+
+        </ul>
+    </div>
+
+    <div class="column">
+        <h3>E-BÜLTEN</h3>
+        <ul>
+            <p class="ebulten">Haber, duyuru ve kampanyalarımızdan haberdar olmak  <br> isterseniz aşağıdaki ilgili alana mail adresinizi kayıt ediniz..</p>
+            <li>
+
+         <form action="/Contact/BultenKayit" method="post">
+            <input type="email" name="email" placeholder="E-posta adresinizi girin" required>
+            <button type="submit">Gönder</button>
+        </form>
+
+        </li>
+        </ul>
+    </div>
+     <button id="scrollToTop" class="scroll-to-top" onclick="scrollToTop()">⬆</button>
+     
+</footer>
+
+<div class="footer-bottom">
+    <p>© 2025 Volass GRUP VE İNŞAAT. Bütün Hakları Saklıdır</p>
+    <div class="social-icons">
+        <a href="https://www.instagram.com/volassgrup/?hl=tr" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+        <a href="#" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
+        <a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+        <a href="#" aria-label="Youtube"><i class="fab fa-youtube"></i></a>
+        
+    </div>
+</div>
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/scrolled.js" asp-append-version="true" ></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/top.js" asp-append-version="true"></script>
+    <script src="~/js/hamburger.js" asp-append-version="true"></script>
+    <script src="~/js/referans.js" asp-append-version="true"></script>
+    <script src="~/js/katalog.js" asp-append-version="true"></script>
+    <script src="~/js/donus.js" asp-append-version="true"></script>
+
+    <script src="~/js/projedegisim.js" asp-append-version="true"></script>
+    <script src="~/js/yukaributon.js" asp-append-version="true"></script>
+    <script src="~/js/spin.js" asp-append-version="true"></script>
+    <script src="~/js/hareketlistat.js" asp-append-version="true"></script>
+    <script src="~/js/arama.js" asp-append-version="true"></script>
+    <script src="~/js/projegaleri.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

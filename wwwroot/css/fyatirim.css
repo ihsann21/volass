@@ -1,0 +1,89 @@
+.faaliyetyatirim-page {
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+.alt-baslik-container-yatirim {
+    /* Ortalamayı garanti altına al */
+    font-family: Arial, sans-serif;
+    color: #333;
+    padding: 50px;
+    width: 100vw; /* Genişlik */
+    display: flex;
+    background-color: transparent;
+    background: url("/images/logo/bey.jpg") no-repeat center center;
+  background-size:cover ;
+    
+    flex-direction: column; /* Dikey hizalama */
+    justify-content: center; /* Dikey ortalama */
+    align-items: center; /* Yatay ortalama */
+}
+
+/* Görsel Konteyneri */
+.image-container-yatirim {
+    margin-bottom: 20px; /* Yazıyla arasına boşluk */
+    display: flex; /* Flexbox */
+    width: 80%;
+    height: 350px;
+    justify-content: center; /* Görseli ortala */
+}
+
+.image-container-yatirim img {
+    width: 100%; /* Görseli kapsayıcıya sığdır */
+    height: auto; /* Yüksekliği orantılı tut */
+    border-radius: 10px; /* Köşeleri yuvarlat */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Hafif gölge */
+}
+.header-background-fyatirim{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 400px;
+    background: url('/images/logo/yatirim.png') no-repeat center center/cover;
+    z-index: -1;
+}
+/* Metin Konteyneri */
+.text-container-yatirim {
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+    background-color: transparent;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.visually-hidden {
+    position: absolute !important;
+    width: 1px !important;
+    height: 1px !important;
+    padding: 0 !important;
+    margin: -1px !important;
+    overflow: hidden !important;
+    clip: rect(0, 0, 0, 0) !important;
+    white-space: nowrap !important;
+    border: 0 !important;
+  }
+/* Başlık */
+.text-container-yatirim h2 {
+    font-size: 2rem;
+    margin-bottom: 15px;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+/* Paragraflar */
+.text-container-yatirim p {
+    font-size: 1rem;
+    line-height: 1.8;
+    margin-bottom: 15px;
+    color: #555;
+}
+
+/* Vurgulanan Yazılar */
+.text-container-yatirim strong {
+    color: #000;
+    font-weight: bold;
+}

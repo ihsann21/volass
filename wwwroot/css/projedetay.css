@@ -1,0 +1,202 @@
+
+.detay-page {
+    font-family: Arial, sans-serif;
+background-color: white;
+    line-height: 1.5;
+  }
+
+
+.hero {
+padding: 40px;
+  display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 2rem;
+    flex-wrap: wrap; /* Ekran daraldığında elemanları alt alta geçirir */
+    gap: 1rem;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  /* Soldaki metin kısmı */
+  .hero-text {
+    flex: 1 1 300px; /* Esneyebilmesi için */
+    max-width: 600px;
+  }
+  .hero-text h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    margin-left: -30px;
+    color: black; /* Örnek renk */
+  }
+  .galeri-text{
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-family: cursive;
+    text-align: center;
+  }
+  .header-background-detay{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 150px;
+    background: url('/images/logo/deta.jpg') no-repeat center center/cover;
+    z-index: -1;
+  }
+  
+  /* Proje detayları */
+  .project-details {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* İki sütun */
+    gap: 1rem;
+    margin-top: 4rem;
+  }
+  .detail-item h3 {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 0.3rem;
+    color: black;
+  }
+  .detail-item p {
+    font-size: 0.95rem;
+    color: #333;
+  }
+  
+  /* Sağdaki resim kısmı */
+  .hero-image {
+    flex: 1 1 300px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 600px; /* İsterseniz daha küçük ya da büyük verebilirsiniz */
+  }
+  .hero-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px; /* Köşeleri hafif yuvarlatma */
+  }
+  
+  /* Açıklama bölümü */
+  .description {
+    padding: 2rem;
+  }
+  .description p {
+    font-size: 1rem;
+    max-width: 900px;
+    margin: 0 auto;
+    line-height: 1.6;
+    text-align: justify;
+    color: #444;
+  }
+  
+  /* RESPONSIVE KISIMLAR */
+  /* Tablet boyutlar için örnek */
+  @media (max-width: 992px) {
+    .project-details {
+      grid-template-columns: 1fr; /* Tek sütuna düşür */
+    }
+  }
+  
+  /* Cep telefonu boyutları için örnek */
+  @media (max-width: 600px) {
+    .hero {
+      flex-direction: column; /* Resim ve metin alt alta gelir */
+      align-items: center;
+    }
+    
+    .hero-text,
+    .hero-image {
+      max-width: 100%;
+    }
+    .hero-text h2 {
+      margin-left: -30px;
+    }
+  }
+
+
+
+/* Ana galeri kapsayıcısı */
+.gallery-container {
+  display: flex; 
+  gap: 20px;       /* Soldaki yazı alanı ile sağdaki fotoğraflar arası boşluk */
+  margin: 20px;
+}
+
+/* Galeri yan sütunu (Başlık veya butonlar) */
+.gallery-sidebar {
+  width: 150px;
+}
+
+/* Fotoğraf alanı (grid ile sütun düzeni) */
+.gallery-display {
+  flex: 1;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Masaüstünde 3 sütun */
+  gap: 20px;                             /* Resimler arası boşluk */
+}
+
+/* Mobilde 2 sütuna düşmesi için medya sorgusu */
+@media (max-width: 768px) {
+  .gallery-display {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Resimlerin genel stili */
+.gallery-display img {
+  width: 100%;      /* Izgara hücresini tam doldursun */
+  height: auto;
+  cursor: pointer;  /* Tıklanabilir olduğunu göster */
+  border-radius: 4px;
+  transition: transform 0.3s ease;
+}
+.gallery-display img:hover {
+  transform: scale(1.05); /* Hover efekti */
+}
+
+/* Lightbox (büyük gösterim) stili */
+.lightbox-modal {
+  display: none;           /* Başlangıçta kapalı */
+  position: fixed;
+  z-index: 9999;
+  left: 0; top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0,0,0,0.9);
+  justify-content: center;
+  align-items: center;
+}
+.lightbox-modal-content {
+  max-width: 90%;
+  max-height: 80%;
+  display: block;
+  margin: auto;
+}
+.lightbox-close, .lightbox-prev, .lightbox-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #fff;
+  font-size: 2rem;
+  font-weight: bold;
+  cursor: pointer;
+  user-select: none;
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 10px;
+  border-radius: 4px;
+}
+.lightbox-close {
+  top: 20px;
+  right: 20px;
+  transform: none;
+  font-size: 3rem;
+}
+.lightbox-prev { left: 20px; }
+.lightbox-next { right: 20px; }
+.lightbox-close:hover,
+.lightbox-prev:hover,
+.lightbox-next:hover {
+  background-color: rgba(0, 0, 0, 0.7);
+}
