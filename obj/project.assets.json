@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/volass.csproj",
+      "projectUniqueName": "/Users/ihsantanriverdi/Desktop/volass/volass/volass.csproj",
       "projectName": "volass",
-      "projectPath": "/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/volass.csproj",
+      "projectPath": "/Users/ihsantanriverdi/Desktop/volass/volass/volass.csproj",
       "packagesPath": "/Users/ihsantanriverdi/.nuget/packages/",
-      "outputPath": "/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/obj/",
+      "outputPath": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ihsantanriverdi/.nuget/NuGet/NuGet.Config"

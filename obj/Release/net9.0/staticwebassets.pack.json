@@ -1,1179 +1,1223 @@
 {
   "Files": [
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/obj/Release/net9.0/scopedcss/projectbundle/volass.bundle.scp.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Release/net9.0/scopedcss/projectbundle/volass.bundle.scp.css",
       "PackagePath": "staticwebassets/volass.jz3pscxc89.bundle.scp.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/css/cevreveis.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/css/cevreveis.css",
       "PackagePath": "staticwebassets/css/cevreveis.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/css/faaliyetalani.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/css/faaliyetalani.css",
       "PackagePath": "staticwebassets/css/faaliyetalani.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/css/fmimar.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/css/fmimar.css",
       "PackagePath": "staticwebassets/css/fmimar.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/css/fmuhendis.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/css/fmuhendis.css",
       "PackagePath": "staticwebassets/css/fmuhendis.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/css/fyatirim.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/css/fyatirim.css",
       "PackagePath": "staticwebassets/css/fyatirim.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/css/hakkimizda.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/css/hakkimizda.css",
       "PackagePath": "staticwebassets/css/hakkimizda.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/css/iletisim.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/css/iletisim.css",
       "PackagePath": "staticwebassets/css/iletisim.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/css/kalitepolitika.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/css/kalitepolitika.css",
       "PackagePath": "staticwebassets/css/kalitepolitika.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/css/katalog.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/css/katalog.css",
       "PackagePath": "staticwebassets/css/katalog.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/css/projedetay.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/css/projedetay.css",
       "PackagePath": "staticwebassets/css/projedetay.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/css/projeler.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/css/projeler.css",
       "PackagePath": "staticwebassets/css/projeler.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/css/site.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/css/spinner.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/css/spinner.css",
       "PackagePath": "staticwebassets/css/spinner.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/css/vizyon.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/css/vizyon.css",
       "PackagePath": "staticwebassets/css/vizyon.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/favicon.ico",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/about.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/about.jpg",
       "PackagePath": "staticwebassets/images/about.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/cevre.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/cevre.jpg",
       "PackagePath": "staticwebassets/images/cevre.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/insaat.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/insaat.jpg",
       "PackagePath": "staticwebassets/images/insaat.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/kalite.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/kalite.jpg",
       "PackagePath": "staticwebassets/images/kalite.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/kapak.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/kapak.jpg",
       "PackagePath": "staticwebassets/images/kapak.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/25101.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/25101.jpg",
       "PackagePath": "staticwebassets/images/logo/25101.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/270472.png",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/270472.png",
       "PackagePath": "staticwebassets/images/logo/270472.png"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/TOKİLogoYENİDikey(con).jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/TOKİLogoYENİDikey(con).jpg",
       "PackagePath": "staticwebassets/images/logo/TOKİLogoYENİDikey(con).jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/altust.png",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/altust.png",
       "PackagePath": "staticwebassets/images/logo/altust.png"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/background.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/background.jpeg",
       "PackagePath": "staticwebassets/images/logo/background.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/backgroundd.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/backgroundd.jpeg",
       "PackagePath": "staticwebassets/images/logo/backgroundd.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/backhak.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/backhak.jpg",
       "PackagePath": "staticwebassets/images/logo/backhak.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/bey.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/bey.jpg",
       "PackagePath": "staticwebassets/images/logo/bey.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/building.svg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/building.svg",
       "PackagePath": "staticwebassets/images/logo/building.svg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/cevre.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/cevre.jpg",
       "PackagePath": "staticwebassets/images/logo/cevre.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/clk.png",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/clk.png",
       "PackagePath": "staticwebassets/images/logo/clk.png"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/contact.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/clk33.png",
+      "PackagePath": "staticwebassets/images/logo/clk33.png"
+    },
+    {
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/contact.jpg",
       "PackagePath": "staticwebassets/images/logo/contact.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/contactt.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/contactt.jpg",
       "PackagePath": "staticwebassets/images/logo/contactt.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/crane.svg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/crane.svg",
       "PackagePath": "staticwebassets/images/logo/crane.svg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/deta.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/deta.jpg",
       "PackagePath": "staticwebassets/images/logo/deta.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/devam.svg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/devam.svg",
       "PackagePath": "staticwebassets/images/logo/devam.svg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/egitim.png",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/egitim.png",
       "PackagePath": "staticwebassets/images/logo/egitim.png"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/emlak.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/emlak.jpeg",
       "PackagePath": "staticwebassets/images/logo/emlak.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/faaliyet.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/faaliyet.jpg",
       "PackagePath": "staticwebassets/images/logo/faaliyet.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/gelistirilen.svg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/gelistirilen.svg",
       "PackagePath": "staticwebassets/images/logo/gelistirilen.svg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/grbag_construction_logo.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/grbag_construction_logo.jpeg",
       "PackagePath": "staticwebassets/images/logo/grbag_construction_logo.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/hakkimizdabackkk.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/hakkimizdabackkk.jpeg",
       "PackagePath": "staticwebassets/images/logo/hakkimizdabackkk.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/kalite.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/kalite.jpeg",
       "PackagePath": "staticwebassets/images/logo/kalite.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/kalites.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/kalites.jpg",
       "PackagePath": "staticwebassets/images/logo/kalites.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/kamu.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/kamu.jpg",
       "PackagePath": "staticwebassets/images/logo/kamu.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/knowledge.svg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/knowledge.svg",
       "PackagePath": "staticwebassets/images/logo/knowledge.svg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/lk.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/lk.jpg",
       "PackagePath": "staticwebassets/images/logo/lk.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/lkk.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/lkk.jpg",
       "PackagePath": "staticwebassets/images/logo/lkk.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/lkkk.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/lkkk.jpg",
       "PackagePath": "staticwebassets/images/logo/lkkk.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/lkkkk.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/lkkkk.jpg",
       "PackagePath": "staticwebassets/images/logo/lkkkk.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/lkkkkk.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/lkkkkk.jpg",
       "PackagePath": "staticwebassets/images/logo/lkkkkk.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/logo-01.png",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/logo-01.png",
       "PackagePath": "staticwebassets/images/logo/logo-01.png"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/logo.png",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/logo.png",
       "PackagePath": "staticwebassets/images/logo/logo.png"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/mimar.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/mimar.jpg",
       "PackagePath": "staticwebassets/images/logo/mimar.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/mimarr.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/mimarr.jpg",
       "PackagePath": "staticwebassets/images/logo/mimarr.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/mimarrr.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/mimarrr.jpg",
       "PackagePath": "staticwebassets/images/logo/mimarrr.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/mimmar.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/mimmar.jpg",
       "PackagePath": "staticwebassets/images/logo/mimmar.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/mimmmar.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/mimmmar.jpg",
       "PackagePath": "staticwebassets/images/logo/mimmmar.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/misyon.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/misyon.jpg",
       "PackagePath": "staticwebassets/images/logo/misyon.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/misyonn.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/misyonn.jpg",
       "PackagePath": "staticwebassets/images/logo/misyonn.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/muhendis.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/muhendis.jpg",
       "PackagePath": "staticwebassets/images/logo/muhendis.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/png-clipart-emlak-konut-esenler-residences-real-estate-project-ist-ekgyo-diy-company-text-thumbnail.png",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/png-clipart-emlak-konut-esenler-residences-real-estate-project-ist-ekgyo-diy-company-text-thumbnail.png",
       "PackagePath": "staticwebassets/images/logo/png-clipart-emlak-konut-esenler-residences-real-estate-project-ist-ekgyo-diy-company-text-thumbnail.png"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/proje.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/proje.jpeg",
       "PackagePath": "staticwebassets/images/logo/proje.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/projeler.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/projeler.jpg",
       "PackagePath": "staticwebassets/images/logo/projeler.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/saglik.png",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/saglik.png",
       "PackagePath": "staticwebassets/images/logo/saglik.png"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/simetri.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/simetri.jpeg",
       "PackagePath": "staticwebassets/images/logo/simetri.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/simetrii.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/simetrii.jpeg",
       "PackagePath": "staticwebassets/images/logo/simetrii.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/srl-logo.png",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/srl-logo.png",
       "PackagePath": "staticwebassets/images/logo/srl-logo.png"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/tmb-insaat-sektoru-analizini-acikladi_4160876.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/tmb-insaat-sektoru-analizini-acikladi_4160876.jpg",
       "PackagePath": "staticwebassets/images/logo/tmb-insaat-sektoru-analizini-acikladi_4160876.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/toki.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/toki.jpeg",
       "PackagePath": "staticwebassets/images/logo/toki.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/volass.png",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/volass.png",
       "PackagePath": "staticwebassets/images/logo/volass.png"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/worker.svg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/worker.svg",
       "PackagePath": "staticwebassets/images/logo/worker.svg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/logo/yatirim.png",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/x.jpg",
+      "PackagePath": "staticwebassets/images/logo/x.jpg"
+    },
+    {
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/xx.jpg",
+      "PackagePath": "staticwebassets/images/logo/xx.jpg"
+    },
+    {
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/logo/yatirim.png",
       "PackagePath": "staticwebassets/images/logo/yatirim.png"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/pdf/katalog.pdf",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/pdf/katalog.pdf",
       "PackagePath": "staticwebassets/images/pdf/katalog.pdf"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje1.1.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje1.1.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje1.1.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje1.2.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje1.2.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje1.2.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje1.3.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje1.3.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje1.3.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje1.4.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje1.4.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje1.4.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje1.5.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje1.5.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje1.5.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje1.6.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje1.6.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje1.6.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje1.7.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje1.7.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje1.7.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje1.8.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje1.8.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje1.8.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje1.9.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje1.9.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje1.9.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje10.1.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje10.1.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje10.1.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje10.2.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje10.2.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje10.2.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje10.3.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje10.3.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje10.3.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje10.4.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje10.4.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje10.4.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje10.5.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje10.5.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje10.5.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje10.6.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje10.6.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje10.6.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje10.7.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje10.7.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje10.7.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje10.8.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje10.8.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje10.8.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje10.9.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje10.9.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje10.9.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje11.1.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje11.1.jpg",
       "PackagePath": "staticwebassets/images/projeler/proje11.1.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje11.2.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje11.2.jpg",
       "PackagePath": "staticwebassets/images/projeler/proje11.2.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje11.3.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje11.3.jpg",
       "PackagePath": "staticwebassets/images/projeler/proje11.3.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje11.4.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje11.4.jpg",
       "PackagePath": "staticwebassets/images/projeler/proje11.4.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje11.5.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje11.5.jpg",
       "PackagePath": "staticwebassets/images/projeler/proje11.5.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje11.6.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje11.6.jpg",
       "PackagePath": "staticwebassets/images/projeler/proje11.6.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje11.7.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje11.7.jpg",
       "PackagePath": "staticwebassets/images/projeler/proje11.7.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje12.1.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje12.1.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje12.1.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje12.2.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje12.2.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje12.2.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje12.3.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje12.3.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje12.3.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje12.4.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje12.4.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje12.4.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje12.5.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje12.5.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje12.5.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje13.1.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje13.1.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje13.1.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje13.2.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje13.2.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje13.2.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje13.3.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje13.3.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje13.3.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje13.4.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje13.4.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje13.4.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje13.5.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje13.5.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje13.5.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje13.6.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje13.6.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje13.6.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje13.7.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje13.7.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje13.7.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje13.8.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje13.8.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje13.8.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje14.1.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje14.1.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje14.1.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje14.2.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje14.2.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje14.2.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje15.1.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje15.1.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje15.1.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje15.2.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje15.2.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje15.2.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje16.1.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje16.1.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje16.1.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje16.2.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje16.2.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje16.2.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje17.1.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje17.1.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje17.1.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje17.2.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje17.2.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje17.2.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje18.1.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje18.1.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje18.1.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje18.2.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje18.2.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje18.2.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje2.1.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje19.1.png",
+      "PackagePath": "staticwebassets/images/projeler/proje19.1.png"
+    },
+    {
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje19.2.png",
+      "PackagePath": "staticwebassets/images/projeler/proje19.2.png"
+    },
+    {
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje19.3.png",
+      "PackagePath": "staticwebassets/images/projeler/proje19.3.png"
+    },
+    {
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje19.4.png",
+      "PackagePath": "staticwebassets/images/projeler/proje19.4.png"
+    },
+    {
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje19.5.png",
+      "PackagePath": "staticwebassets/images/projeler/proje19.5.png"
+    },
+    {
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje2.1.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje2.1.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje2.2.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje2.2.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje2.2.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje3.1.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje20.1.jpeg",
+      "PackagePath": "staticwebassets/images/projeler/proje20.1.jpeg"
+    },
+    {
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje20.10.jpeg",
+      "PackagePath": "staticwebassets/images/projeler/proje20.10.jpeg"
+    },
+    {
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje20.2.jpeg",
+      "PackagePath": "staticwebassets/images/projeler/proje20.2.jpeg"
+    },
+    {
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje20.3.jpeg",
+      "PackagePath": "staticwebassets/images/projeler/proje20.3.jpeg"
+    },
+    {
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje20.4.jpeg",
+      "PackagePath": "staticwebassets/images/projeler/proje20.4.jpeg"
+    },
+    {
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje20.5.jpeg",
+      "PackagePath": "staticwebassets/images/projeler/proje20.5.jpeg"
+    },
+    {
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje20.6.jpeg",
+      "PackagePath": "staticwebassets/images/projeler/proje20.6.jpeg"
+    },
+    {
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje20.8.jpeg",
+      "PackagePath": "staticwebassets/images/projeler/proje20.8.jpeg"
+    },
+    {
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje20.9.jpeg",
+      "PackagePath": "staticwebassets/images/projeler/proje20.9.jpeg"
+    },
+    {
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje3.1.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje3.1.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje3.2.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje3.2.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje3.2.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje3.3.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje3.3.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje3.3.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje3.4.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje3.4.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje3.4.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje3.5.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje3.5.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje3.5.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje3.6.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje3.6.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje3.6.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje3.7.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje3.7.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje3.7.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje4.10.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje4.10.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje4.10.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje4.11.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje4.11.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje4.11.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje4.12.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje4.12.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje4.12.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje4.13.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje4.13.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje4.13.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje4.14.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje4.14.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje4.14.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje4.15.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje4.15.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje4.15.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje4.3.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje4.3.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje4.3.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje4.5.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje4.5.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje4.5.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje4.6.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje4.6.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje4.6.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje4.7.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje4.7.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje4.7.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje4.8.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje4.8.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje4.8.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje4.9.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje4.9.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje4.9.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje5.1.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje5.1.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje5.1.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje5.2.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje5.2.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje5.2.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje5.3.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje5.3.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje5.3.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje5.4.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje5.4.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje5.4.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje5.5.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje5.5.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje5.5.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje5.6.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje5.6.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje5.6.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje6.1.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje6.1.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje6.1.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje6.2.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje6.2.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje6.2.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje6.3.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje6.3.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje6.3.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje6.4.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje6.4.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje6.4.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje6.5.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje6.5.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje6.5.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje7.1.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje7.1.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje7.1.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje7.2.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje7.2.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje7.2.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje7.3.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje7.3.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje7.3.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje7.4.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje7.4.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje7.4.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje7.5.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje7.5.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje7.5.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje7.6.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje7.6.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje7.6.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje8.1.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje8.1.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje8.1.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje8.2.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje8.2.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje8.2.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje8.3.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje8.3.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje8.3.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje8.4.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje8.4.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje8.4.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje8.5.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje8.5.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje8.5.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje8.6.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje8.6.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje8.6.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje8.7.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje8.7.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje8.7.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje8.8.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje8.8.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje8.8.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje8.9.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje8.9.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje8.9.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje9.1.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje9.1.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje9.1.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje9.2.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje9.2.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje9.2.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje9.3.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje9.3.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje9.3.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje9.4.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje9.4.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje9.4.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje9.5.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje9.5.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje9.5.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje9.6.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje9.6.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje9.6.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje9.7.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje9.7.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje9.7.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje9.8.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje9.8.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje9.8.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/projeler/proje9.9.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/projeler/proje9.9.jpeg",
       "PackagePath": "staticwebassets/images/projeler/proje9.9.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/samsun.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/samsun.jpg",
       "PackagePath": "staticwebassets/images/samsun.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/slide1.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/slide1.jpg",
       "PackagePath": "staticwebassets/images/slide1.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/slide2.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/slide2.jpg",
       "PackagePath": "staticwebassets/images/slide2.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/slide3.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/slide3.jpg",
       "PackagePath": "staticwebassets/images/slide3.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/slide4.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/slide4.jpg",
       "PackagePath": "staticwebassets/images/slide4.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/slide5.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/slide5.jpg",
       "PackagePath": "staticwebassets/images/slide5.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/tasarım.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/tasarım.jpg",
       "PackagePath": "staticwebassets/images/tasarım.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/videos/VIDEO-2025-02-22-20-23-47.mp4",
-      "PackagePath": "staticwebassets/images/videos/VIDEO-2025-02-22-20-23-47.mp4"
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/videos/yeni-thumbnail.jpg",
+      "PackagePath": "staticwebassets/images/videos/yeni-thumbnail.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/videos/abc.mp4",
-      "PackagePath": "staticwebassets/images/videos/abc.mp4"
-    },
-    {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/videos/tlc.mp4",
-      "PackagePath": "staticwebassets/images/videos/tlc.mp4"
-    },
-    {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/videos/voalas.mp4",
-      "PackagePath": "staticwebassets/images/videos/voalas.mp4"
-    },
-    {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/videos/volass grubu40.MOV",
-      "PackagePath": "staticwebassets/images/videos/volass grubu40.MOV"
-    },
-    {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/videos/wps.mp4",
-      "PackagePath": "staticwebassets/images/videos/wps.mp4"
-    },
-    {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/videos/xyz.mp4",
-      "PackagePath": "staticwebassets/images/videos/xyz.mp4"
-    },
-    {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/videos/yeni.mov",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/videos/yeni.mov",
       "PackagePath": "staticwebassets/images/videos/yeni.mov"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/vizyon.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/vizyon.jpg",
       "PackagePath": "staticwebassets/images/vizyon.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/volas.jpeg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/volas.jpeg",
       "PackagePath": "staticwebassets/images/volas.jpeg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/images/yatırım.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/yatırım.jpg",
       "PackagePath": "staticwebassets/images/yatırım.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/js/donus.js",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/js/donus.js",
       "PackagePath": "staticwebassets/js/donus.js"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/js/hamburger.js",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/js/hamburger.js",
       "PackagePath": "staticwebassets/js/hamburger.js"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/js/hareketlistat.js",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/js/hareketlistat.js",
       "PackagePath": "staticwebassets/js/hareketlistat.js"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/js/katalog.js",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/js/katalog.js",
       "PackagePath": "staticwebassets/js/katalog.js"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/js/projedegisim.js",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/js/projedegisim.js",
       "PackagePath": "staticwebassets/js/projedegisim.js"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/js/projegaleri.js",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/js/projegaleri.js",
       "PackagePath": "staticwebassets/js/projegaleri.js"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/js/scrolled.js",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/js/scrolled.js",
       "PackagePath": "staticwebassets/js/scrolled.js"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/js/top.js",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/js/top.js",
       "PackagePath": "staticwebassets/js/top.js"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/js/yukaributon.js",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/js/yukaributon.js",
       "PackagePath": "staticwebassets/js/yukaributon.js"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog1.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog1.jpg",
       "PackagePath": "staticwebassets/katalog/katalog1.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog10.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog10.jpg",
       "PackagePath": "staticwebassets/katalog/katalog10.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog11.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog11.jpg",
       "PackagePath": "staticwebassets/katalog/katalog11.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog12.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog12.jpg",
       "PackagePath": "staticwebassets/katalog/katalog12.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog13.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog13.jpg",
       "PackagePath": "staticwebassets/katalog/katalog13.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog14.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog14.jpg",
       "PackagePath": "staticwebassets/katalog/katalog14.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog15.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog15.jpg",
       "PackagePath": "staticwebassets/katalog/katalog15.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog16.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog16.jpg",
       "PackagePath": "staticwebassets/katalog/katalog16.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog17.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog17.jpg",
       "PackagePath": "staticwebassets/katalog/katalog17.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog18.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog18.jpg",
       "PackagePath": "staticwebassets/katalog/katalog18.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog19.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog19.jpg",
       "PackagePath": "staticwebassets/katalog/katalog19.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog2.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog2.jpg",
       "PackagePath": "staticwebassets/katalog/katalog2.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog20.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog20.jpg",
       "PackagePath": "staticwebassets/katalog/katalog20.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog21.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog21.jpg",
       "PackagePath": "staticwebassets/katalog/katalog21.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog22.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog22.jpg",
       "PackagePath": "staticwebassets/katalog/katalog22.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog23.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog23.jpg",
       "PackagePath": "staticwebassets/katalog/katalog23.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog24.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog24.jpg",
       "PackagePath": "staticwebassets/katalog/katalog24.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog25.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog25.jpg",
       "PackagePath": "staticwebassets/katalog/katalog25.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog26.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog26.jpg",
       "PackagePath": "staticwebassets/katalog/katalog26.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog27.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog27.jpg",
       "PackagePath": "staticwebassets/katalog/katalog27.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog28.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog28.jpg",
       "PackagePath": "staticwebassets/katalog/katalog28.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog3.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog3.jpg",
       "PackagePath": "staticwebassets/katalog/katalog3.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog4.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog4.jpg",
       "PackagePath": "staticwebassets/katalog/katalog4.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog5.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog5.jpg",
       "PackagePath": "staticwebassets/katalog/katalog5.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog6.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog6.jpg",
       "PackagePath": "staticwebassets/katalog/katalog6.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog7.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog7.jpg",
       "PackagePath": "staticwebassets/katalog/katalog7.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog8.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog8.jpg",
       "PackagePath": "staticwebassets/katalog/katalog8.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/katalog/katalog9.jpg",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/katalog/katalog9.jpg",
       "PackagePath": "staticwebassets/katalog/katalog9.jpg"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/LICENSE",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/LICENSE",
       "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/jquery-validation/LICENSE.md",
       "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/jquery/LICENSE.txt",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/jquery/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/jquery/dist/jquery.js",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/jquery/dist/jquery.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/jquery/dist/jquery.min.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/jquery/dist/jquery.slim.js",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/jquery/dist/jquery.slim.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.js"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/jquery/dist/jquery.slim.min.js",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/jquery/dist/jquery.slim.min.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.js"
     },
     {
-      "Id": "/Users/ihsantanriverdi/volass/volass/wwwroot/lib/jquery/dist/jquery.slim.min.map",
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/jquery/dist/jquery.slim.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.map"
     },
     {

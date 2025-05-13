@@ -5,30 +5,28 @@ builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
-app.UseStaticFiles(new StaticFileOptions
-{
-    ServeUnknownFileTypes = true,
-    DefaultContentType = "video/mp4"
-});
-Console.WriteLine($"Environment: {app.Environment.EnvironmentName}");
-
 
 app.UseHttpsRedirection();
+app.UseStaticFiles();
 app.UseRouting();
-
 app.UseAuthorization();
 
-app.MapStaticAssets();
+// Video route’u da bu şekilde eklenir:
+app.MapControllerRoute(
+    name: "video",
+    pattern: "video/{action=Yeni}",
+    defaults: new { controller = "Video" }
+);
 
+// Varsayılan route
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Anasayfa}/{id?}");
-    
+    pattern: "{controller=Home}/{action=Index}/{id?}"
+);
+
 app.Run();

@@ -137,6 +137,7 @@ body {
 .satir {
   display: flex;
   flex-wrap: wrap;
+  margin-bottom: 20px;
   justify-content: space-around; /* Elemanların yayılışı */
 }
 
@@ -188,11 +189,7 @@ body {
  ANİMASYONLAR
 *********************/
 .anim-yukari {
-  /* Başlangıçta hafif şeffaf ve aşağıdaymış gibi */
-  opacity: 0;
-  transform: translateY(40px);
-  /* Animasyonun devreye girmesi için keyframes adını atayalım */
-  animation: yukariCik 1s forwards; 
+  
   color: black;
   
   font-size: 26px;
@@ -200,7 +197,7 @@ body {
     letter-spacing: 9px;
     margin-bottom: 15px;
   
-  /* Örnek olarak data-sure ve data-gecikme attribute’larını JS ile de okuyabilirsiniz */
+  /* Örnek olarak data-sure ve data-gecikme attribute'larını JS ile de okuyabilirsiniz */
 }
 
 .anim-p{
@@ -271,7 +268,7 @@ body {
 }
 @media (max-width: 768px) {
   .genis-kapsayici {
-    margin-top: 90px; /* Daha fazla boşluk için değeri artır */
+    margin-top: 45px; /* Daha fazla boşluk için değeri artır */
   
 
     display: flex;
@@ -1055,4 +1052,72 @@ h4{
   font-weight: 400;      /* Kalın yazı */
   color: #292828;            /* Metin rengi (daire koyu renkse açık metin) */
   text-align: center;     /* Ortala (özellikle içerik ortadaysa) */
+}
+
+/* Scroll Animations */
+.scroll-anim {
+  opacity: 0;
+  transform: translateY(40px);
+  transition: all 0.8s ease-out;
+  
+}
+
+.scroll-anim.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.fade-in {
+  opacity: 0;
+  transition: opacity 0.8s ease-out;
+}
+
+.fade-in.visible {
+  opacity: 1;
+}
+
+.slide-right {
+  opacity: 0;
+  transform: translateX(-40px);
+  transition: all 0.8s ease-out;
+}
+
+.slide-right.visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.slide-left {
+  opacity: 0;
+  transform: translateX(40px);
+  transition: all 0.8s ease-out;
+}
+
+.slide-left.visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.scale-up {
+  opacity: 0;
+  transform: scale(0.8);
+  transition: all 0.8s ease-out;
+}
+
+.scale-up.visible {
+  opacity: 1;
+  transform: scale(1);
+}
+
+/* Delay variations */
+.delay-200 {
+  transition-delay: 0.2s;
+}
+
+.delay-400 {
+  transition-delay: 0.4s;
+}
+
+.delay-600 {
+  transition-delay: 0.6s;
 }

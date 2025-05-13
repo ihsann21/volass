@@ -9,165 +9,177 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = volass
 build_property.RootNamespace = volass
-build_property.ProjectDir = /Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/
+build_property.ProjectDir = /Users/ihsantanriverdi/Desktop/volass/volass/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/ihsantanriverdi/Desktop/SİTELER/volass/volass
+build_property.MSBuildProjectDirectory = /Users/ihsantanriverdi/Desktop/volass/volass
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Contact/BultenKayit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QnVsdGVuS2F5aXQuY3NodG1s
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Contact/BultenKayit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdC9CdWx0ZW5LYXlpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Contact/Iletisim.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SWxldGlzaW0uY3NodG1s
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Contact/Iletisim.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdC9JbGV0aXNpbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Anasayfa.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QW5hc2F5ZmEuY3NodG1s
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Cevreveis.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DZXZyZXZlaXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Cevreveis.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Q2V2cmV2ZWlzLmNzaHRtbA==
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/DEProjeler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9ERVByb2plbGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/DEProjeler.cshtml]
-build_metadata.AdditionalFiles.TargetPath = REVQcm9qZWxlci5jc2h0bWw=
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Faaliyetalani.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9GYWFsaXlldGFsYW5pLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Faaliyetalani.cshtml]
-build_metadata.AdditionalFiles.TargetPath = RmFhbGl5ZXRhbGFuaS5jc2h0bWw=
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Faaliyetmimar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9GYWFsaXlldG1pbWFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Faaliyetmimar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = RmFhbGl5ZXRtaW1hci5jc2h0bWw=
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Faaliyetmuhendis.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9GYWFsaXlldG11aGVuZGlzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Faaliyetmuhendis.cshtml]
-build_metadata.AdditionalFiles.TargetPath = RmFhbGl5ZXRtdWhlbmRpcy5jc2h0bWw=
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Faaliyetyatirim.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9GYWFsaXlldHlhdGlyaW0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Faaliyetyatirim.cshtml]
-build_metadata.AdditionalFiles.TargetPath = RmFhbGl5ZXR5YXRpcmltLmNzaHRtbA==
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Hakkimizda.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9IYWtraW1pemRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Hakkimizda.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SGFra2ltaXpkYS5jc2h0bWw=
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Kalitepolitika.cshtml]
-build_metadata.AdditionalFiles.TargetPath = S2FsaXRlcG9saXRpa2EuY3NodG1s
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Kalitepolitika.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9LYWxpdGVwb2xpdGlrYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Katalog.cshtml]
-build_metadata.AdditionalFiles.TargetPath = S2F0YWxvZy5jc2h0bWw=
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Katalog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9LYXRhbG9nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Projedetay1.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamVkZXRheTEuY3NodG1s
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Projedetay1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9qZWRldGF5MS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Projedetay10.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamVkZXRheTEwLmNzaHRtbA==
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Projedetay10.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9qZWRldGF5MTAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Projedetay11.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamVkZXRheTExLmNzaHRtbA==
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Projedetay11.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9qZWRldGF5MTEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Projedetay12.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamVkZXRheTEyLmNzaHRtbA==
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Projedetay12.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9qZWRldGF5MTIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Projedetay13.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamVkZXRheTEzLmNzaHRtbA==
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Projedetay13.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9qZWRldGF5MTMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Projedetay14.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamVkZXRheTE0LmNzaHRtbA==
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Projedetay14.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9qZWRldGF5MTQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Projedetay15.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamVkZXRheTE1LmNzaHRtbA==
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Projedetay15.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9qZWRldGF5MTUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Projedetay16.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamVkZXRheTE2LmNzaHRtbA==
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Projedetay16.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9qZWRldGF5MTYuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Projedetay17.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamVkZXRheTE3LmNzaHRtbA==
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Projedetay17.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9qZWRldGF5MTcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Projedetay18.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamVkZXRheTE4LmNzaHRtbA==
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Projedetay18.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9qZWRldGF5MTguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Projedetay2.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamVkZXRheTIuY3NodG1s
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Projedetay19.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9qZWRldGF5MTkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Projedetay3.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamVkZXRheTMuY3NodG1s
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Projedetay2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9qZWRldGF5Mi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Projedetay4.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamVkZXRheTQuY3NodG1s
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Projedetay20.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9qZWRldGF5MjAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Projedetay5.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamVkZXRheTUuY3NodG1s
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Projedetay3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9qZWRldGF5My5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Projedetay6.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamVkZXRheTYuY3NodG1s
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Projedetay4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9qZWRldGF5NC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Projedetay7.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamVkZXRheTcuY3NodG1s
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Projedetay5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9qZWRldGF5NS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Projedetay8.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamVkZXRheTguY3NodG1s
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Projedetay6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9qZWRldGF5Ni5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Projedetay9.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamVkZXRheTkuY3NodG1s
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Projedetay7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9qZWRldGF5Ny5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Projeler.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvamVsZXIuY3NodG1s
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Projedetay8.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9qZWRldGF5OC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/TProjeler.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VFByb2plbGVyLmNzaHRtbA==
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Projedetay9.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9qZWRldGF5OS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Home/Vizyon.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vml6eW9uLmNzaHRtbA==
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Projeler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9qZWxlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = RXJyb3IuY3NodG1s
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/TProjeler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9UUHJvamVsZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = X1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Home/Vizyon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9WaXp5b24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = X1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = X1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ihsantanriverdi/Desktop/SİTELER/volass/volass/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = X0xheW91dC5jc2h0bWw=
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Video/Yeni.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmlkZW8vWWVuaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ihsantanriverdi/Desktop/volass/volass/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-72dwvx9lho

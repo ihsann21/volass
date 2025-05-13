@@ -1,0 +1,48 @@
+@{
+    ViewData["Title"] = "Volass Grup Tanıtım Videosu";
+}
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>@ViewData["Title"]</title>
+  <meta name="description" content="Volass Grup'un yeni projelerine dair tanıtım videosudur. İnşaat ve üst yapı çözümlerimiz hakkında genel bir bakış sunar." />
+  <link rel="canonical" href="https://volassgrup.com/video/yeni" />
+
+  <!-- Schema.org VideoObject -->
+  <script type="application/ld+json">
+  {
+    "@@context": "https://schema.org",
+    "@@type": "VideoObject",
+    "name": "Volass Grup Tanıtım Videosu",
+    "description": "Volass Grup'un yeni projelerine dair tanıtım videosudur.",
+    "thumbnailUrl": "https://volassgrup.com/images/videos/yeni-thumbnail.jpg",
+    "uploadDate": "2025-05-08",
+    "contentUrl": "https://volassgrup.com/images/videos/yeni.mov",
+    "embedUrl": "https://volassgrup.com/video/yeni"
+  }
+  </script>
+
+  <style>
+    body { margin:0; font-family:Segoe UI, sans-serif; background:#000; color:#fff; }
+    .video-wrapper { max-width:960px; margin:150px auto; text-align:center; }
+    video { width:100%; height:auto; border:2px solid #444; border-radius:4px; }
+    .description { margin-top:20px; font-size:1.1rem; line-height:1.5; }
+    .back-link { display:inline-block; margin-top:30px; color:#0af; text-decoration:none; }
+  </style>
+</head>
+<body>
+  <div class="video-wrapper">
+    <h1>Volass Grup Tanıtım Videosu</h1>
+    <video controls poster="/images/videos/yeni-thumbnail.jpg">
+      <source src="/images/videos/yeni.mov" type="video/mp4" />
+      Tarayıcınız video elementini desteklemiyor.
+    </video>
+    <p class="description">
+      Volass Grup'un yeni projelerine dair tanıtım videosudur. İnşaat ve üst yapı çözümlerimiz hakkında genel bir bakış sunar.
+    </p>
+    <a href="/" class="back-link">&larr; Ana Sayfaya Dön</a>
+  </div>
+</body>
+</html>

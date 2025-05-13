@@ -13,7 +13,7 @@ public class HomeController : Controller
         _logger = logger;
     }
 
-    public IActionResult Anasayfa()
+    public IActionResult Index()
     {
         return View();
     }
@@ -138,7 +138,11 @@ public class HomeController : Controller
     {
         return View();
     }
-    public IActionResult Spinner()
+      public IActionResult Projedetay19()
+    {
+        return View();
+    }
+       public IActionResult Projedetay20()
     {
         return View();
     }

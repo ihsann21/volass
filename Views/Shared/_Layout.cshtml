@@ -43,7 +43,7 @@
         
         <header class="custom-header ">
             <div class="logo-container">
-                <a href="/Home/Anasayfa">
+                <a href="/">
                     <img src="/images/logo/logo.png" class="site-logo" alt="Site Logo">
                 </a>
             </div>
@@ -51,7 +51,7 @@
                 
                 <ul>
                     <li class="nav-item">
-                            <a class="nav-link " asp-area="" asp-controller="Home" asp-action="Anasayfa">ANASAYFA</a>
+                            <a class="nav-link " asp-area="" asp-controller="Home" asp-action="Index">ANASAYFA</a>
                     </li>
 
                     <li class="nav-item kurumsal-menu">
@@ -110,7 +110,7 @@
 <div class="mobile-menu" id="mobileMenu">
   <ul>
     <li>
-      <a href="/Home/Anasayfa">ANASAYFA</a>
+      <a href="/Home/Index">ANASAYFA</a>
     </li>
 
     <!-- KURUMSAL -->
@@ -281,18 +281,13 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/scrolled.js" asp-append-version="true" ></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
     <script src="~/js/top.js" asp-append-version="true"></script>
     <script src="~/js/hamburger.js" asp-append-version="true"></script>
-    <script src="~/js/referans.js" asp-append-version="true"></script>
     <script src="~/js/katalog.js" asp-append-version="true"></script>
     <script src="~/js/donus.js" asp-append-version="true"></script>
-
     <script src="~/js/projedegisim.js" asp-append-version="true"></script>
     <script src="~/js/yukaributon.js" asp-append-version="true"></script>
-    <script src="~/js/spin.js" asp-append-version="true"></script>
     <script src="~/js/hareketlistat.js" asp-append-version="true"></script>
-    <script src="~/js/arama.js" asp-append-version="true"></script>
     <script src="~/js/projegaleri.js" asp-append-version="true"></script>
 
     @await RenderSectionAsync("Scripts", required: false)

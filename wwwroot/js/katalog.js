@@ -33,6 +33,7 @@ const pageImages = [
     // ... bu şekilde 84 sayfayı doldurun
   ];
 
+  // Get the book container element
   const bookContainer = document.getElementById("bookContainer");
 
   // Sayfaları saklayacağımız dizi
@@ -45,6 +46,12 @@ const pageImages = [
 
   // Sayfaları oluşturup ekrana yerleştiriyoruz
   function createPages() {
+    // Check if bookContainer exists before trying to use it
+    if (!bookContainer) {
+      console.error("Error: #bookContainer element not found in the document");
+      return; // Exit the function early if bookContainer doesn't exist
+    }
+
     pageImages.forEach((imgSrc, index) => {
       const pageDiv = document.createElement("div");
       pageDiv.classList.add("page");
@@ -59,8 +66,11 @@ const pageImages = [
     });
   }
 
-  // Başta sayfaları oluşturalım
-  createPages();
+  // Only create pages if we have a book container
+  if (bookContainer) {
+    // Başta sayfaları oluşturalım
+    createPages();
+  }
 
   // Mevcut sayfaya kadar olanları "flipped" yapacağız
   function updatePages() {
@@ -74,18 +84,27 @@ const pageImages = [
     });
   }
 
-  // Önceki butonu
-  document.getElementById("prevPage").addEventListener("click", function(){
-    if (currentPage > 0) {
-      currentPage--;
-      updatePages();
-    }
-  });
+  // Get the navigation button elements
+  const prevButton = document.getElementById("prevPage");
+  const nextButton = document.getElementById("nextPage");
 
-  // Sonraki butonu
-  document.getElementById("nextPage").addEventListener("click", function(){
-    if (currentPage < pages.length) {
-      currentPage++;
-      updatePages();
-    }
-  });
+  // Only add event listeners if elements exist
+  if (prevButton) {
+    // Önceki butonu
+    prevButton.addEventListener("click", function(){
+      if (currentPage > 0) {
+        currentPage--;
+        updatePages();
+      }
+    });
+  }
+
+  if (nextButton) {
+    // Sonraki butonu
+    nextButton.addEventListener("click", function(){
+      if (currentPage < pages.length) {
+        currentPage++;
+        updatePages();
+      }
+    });
+  }

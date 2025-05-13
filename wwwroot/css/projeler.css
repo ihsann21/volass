@@ -1,17 +1,18 @@
-/* Projelerim Bölümü */
-.projelerimiz-page{
+/* Projelerim BÃ¶lÃ¼mÃ¼ */
+.projelerimiz-page {
     background-color: transparent;
 }
+
 .projects-section-proje {
     font-family: Arial, sans-serif;
     padding: 20px;
     text-align: center;
     display: flex;
     justify-content: center;
-    flex-direction: column; /* İçeriği dikey olarak sıralar */
-    background: url("/images/logo/bey.jpg") no-repeat center center;
-  background-size:cover ;
-    align-items: center; 
+    flex-direction: column; /* Ä°Ã§eriÄŸi dikey olarak sÄ±ralar */
+    background: url("/images/logo/ok.jpg") no-repeat center center;
+    background-size: cover;
+    align-items: center;
     width: 100vw;
 }
 
@@ -21,27 +22,27 @@
     top: 0;
     left: 0;
     width: 100vw;
-    height: 400px; /* Üstte belirgin bir alan kaplasın */
-    background: url('/images/logo/projeler.jpg') no-repeat center center/cover; /* Görseli ekle */
-    
+    height: 400px; /* Ãœstte belirgin bir alan kaplasÄ±n */
+    background: url('/images/logo/projeler.jpg') no-repeat center center/cover; /* GÃ¶rseli ekle */
     z-index: -1;
 }
+
 .projects-section-proje h1 {
     font-size: 2.5rem;
-    font-family: 'Josefin Sans', sans-serif ;
-    font-weight: 500;    
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 500;
     margin-bottom: 15px;
     color: #333;
 }
 
-/* Grid Yapısı */
+/* Grid YapÄ±sÄ± */
 .projects-grid-proje {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 20px;
-    justify-content: center; /* Grid elemanlarını ortala */
-    width: 100%; /* Genişlik tamamen kapsansın */
-    max-width: 1200px; /* İçeriği sınırla */
+    justify-content: center; /* Grid elemanlarÄ±nÄ± ortala */
+    width: 100%; /* GeniÅŸlik tamamen kapsansÄ±n */
+    max-width: 1200px; /* Ä°Ã§eriÄŸi sÄ±nÄ±rla */
 }
 
 /* Proje Kutusu */
@@ -51,63 +52,62 @@
     border-radius: 10px;
     border: 3px solid gold;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    height: 250px; /* KartlarÄ±n yÃ¼ksekliÄŸini sabit tut */
 }
 
 .project-item-proje img {
-    width: 100%; /* Görselin genişliğini kutunun genişliğine ayarla */
-    height: 100%; /* Görselin yüksekliğini kutunun yüksekliğine ayarla */
-    object-fit: cover; /* Görseli kutuya tam sığdır */
-    display: block; /* Vars*/
-      transition: transform 0.6s ease;
-    
+    width: 100%; /* GÃ¶rselin geniÅŸliÄŸini kutunun geniÅŸliÄŸine ayarla */
+    height: 100%; /* GÃ¶rselin yÃ¼ksekliÄŸini kutunun yÃ¼ksekliÄŸine ayarla */
+    display: block;
+    transition: transform 0.6s ease;
 }
 
 .project-item-proje:hover img {
-    transform: scale(1.1); /* Hover durumunda görsel büyütme */
+    transform: scale(1.1); /* Hover durumunda gÃ¶rsel bÃ¼yÃ¼tme */
 }
 
-/* Overlay (Üst Katman) */
+/* Overlay (Ãœst Katman) */
 .project-overlay-proje {
     position: absolute;
     bottom: 0;
     left: 0;
     right: 0;
-    background-color: rgba(0, 0, 0, 0.5); /* Arka plan şeffaf */
+    background-color: rgba(0, 0, 0, 0.5); /* Arka plan ÅŸeffaf */
     color: #fff;
     padding: 10px;
-    text-align: left; /* Yazıyı sola hizala */
-    display: flex; /* İkon ve yazıyı yan yana diz */
-    align-items: center; /* İkon ve yazıyı dikey olarak ortala */
-    gap: 10px; /* İkon ile yazı arasında boşluk */
-    flex-direction: row-reverse; /* İkon solda, yazı sağda */
+    text-align: left; /* YazÄ±yÄ± sola hizala */
+    display: flex; /* Ä°kon ve yazÄ±yÄ± yan yana diz */
+    align-items: center; /* Ä°kon ve yazÄ±yÄ± dikey olarak ortala */
+    gap: 10px; /* Ä°kon ile yazÄ± arasÄ±nda boÅŸluk */
+    flex-direction: row-reverse; /* Ä°kon solda, yazÄ± saÄŸda */
 }
+
 .project-item-proje:hover .project-overlay-proje {
-    transform: translateY(0); /* Hover durumunda overlay görünür */
+    transform: translateY(0); /* Hover durumunda overlay gÃ¶rÃ¼nÃ¼r */
 }
-.project-item-proje:hover img {
-    transform: scale(1.1); /* Hover durumunda görsel büyütme */
-}
-/* Proje Başlığı */
+
+/* Proje BaÅŸlÄ±ÄŸÄ± */
 .project-overlay-proje h3 {
     font-size: 1rem;
     margin: 0;
-    flex: 1; /* Yazı genişlikte esnesin */
+    flex: 1; /* YazÄ± geniÅŸlikte esnesin */
 }
 
-/* İkon */
+/* Ä°kon */
 .project-overlay-proje .icon-proje {
     font-size: 1.5rem;
-    color: #ffcc00; /* İkon rengi */
-    flex-shrink: 0; /* İkon boyutu küçülmesin */
+    color: gold; /* Ä°kon rengi */
+    flex-shrink: 0; /* Ä°kon boyutu kÃ¼Ã§Ã¼lmesin */
 }
+
 @media (max-width: 768px) {
     .projects-grid-proje {
-        grid-template-columns: repeat(2, 1fr); /* Mobilde 2 sütun */
+        grid-template-columns: repeat(2, 1fr); /* Mobilde 2 sÃ¼tun */
     }
 }
 
 @media (max-width: 480px) {
     .projects-grid-proje {
-        grid-template-columns: repeat(1, 1fr); /* Daha küçük cihazlarda 1 sütun */
+        grid-template-columns: repeat(1, 1fr); /* Daha kÃ¼Ã§Ã¼k cihazlarda 1 sÃ¼tun */
     }
 }
