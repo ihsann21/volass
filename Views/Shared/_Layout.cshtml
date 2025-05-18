@@ -9,6 +9,86 @@
 
     <meta name="description" content="Volass Grup - İnşaat, mühendislik ve yatırım projelerinde uzmanlaşmış bir firmadır. Sağlam Temeller, Kalıcı Değerler." />
 
+    <!-- Schema markup for Organization and Website -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Volass Grup",
+      "url": "https://volassgrup.com",
+      "logo": "https://volassgrup.com/images/logo/logo.png",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+90 535 258 1601",
+        "contactType": "customer service"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Yakacık Yeni mahalle botanik sokak No:10/A Kat:1 Daire:02",
+        "addressLocality": "Kartal",
+        "addressRegion": "İstanbul",
+        "addressCountry": "Türkiye"
+      },
+      "sameAs": [
+        "https://www.facebook.com/volassgrup",
+        "https://www.instagram.com/volassgrup",
+        "https://www.linkedin.com/company/volassgrup"
+      ]
+    }
+    </script>
+    
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Volass Grup",
+      "url": "https://volassgrup.com",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://volassgrup.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
+
+    <!-- Navigation Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "itemListElement": [
+        {
+          "@type": "SiteNavigationElement",
+          "position": 1,
+          "name": "Hakkımızda",
+          "description": "Volass Grup hakkında bilgiler ve kurumsal değerlerimiz",
+          "url": "https://volassgrup.com/Home/Hakkimizda"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "position": 2,
+          "name": "Projeler",
+          "description": "Volass Grup'un tamamlanan ve devam eden projeleri",
+          "url": "https://volassgrup.com/Home/Projeler"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "position": 3,
+          "name": "İletişim",
+          "description": "Volass Grup iletişim bilgileri",
+          "url": "https://volassgrup.com/Contact/Iletisim"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "position": 5,
+          "name": "Faaliyet Alanları",
+          "description": "Volass Grup'un faaliyet gösterdiği alanlar",
+          "url": "https://volassgrup.com/Home/Faaliyetalani"
+        }
+      ]
+    }
+    </script>
+
     <script type="importmap"></script>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
@@ -68,8 +148,6 @@
                         </ul>
                         
                     </li>
-                            
-                    
 
                     <li class="nav-item faaliyet-menu">
                             <a class="nav-link " asp-area="" asp-controller="Home" asp-action="Faaliyetalani">FAALİYET ALANLARI</a>
@@ -209,8 +287,7 @@
             <li><a href="#">Değerlerimiz</a></li>
             <li><a href="/Home/Kalitepolitika">Kalite Politikamız</a></li>
             <li><a href="/Home/Cevreveis">Çevre, İş Sağlığı ve Güvenliği Politikamız</a></li>
-            <li><a href="#">Açıklama</a></li>
-            <li><a href="#">Katalog</a></li>
+            <li><a href="/Home/Katalog">Katalog</a></li>
             <li><a href="#">KVKK</a></li>
         </ul>
     </div>

@@ -1,0 +1,128 @@
+@{
+    ViewData["Title"] = "Grup Şirketleri";
+}
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Anahtar Kelimeler -->
+<meta name="keywords" content="Grup Şirketleri, Volass Grup, Şirketlerimiz, Volass, Volass Grup Şirketleri">
+
+<!-- Açıklama -->
+<meta name="description" content="Volass Grup bünyesinde faaliyet gösteren şirketlerimiz ve iş kollarımız hakkında bilgi edinebilirsiniz. İnşaat, enerji, tasarım ve gayrimenkul alanında hizmet veren grup şirketlerimiz.">
+
+<!-- Canonical Link -->
+<link rel="canonical" href="https://volassgrup.com/Home/GrupSirketleri" />
+
+<style>
+    .grup-sirketleri {
+        padding: 50px 0;
+    }
+    
+    .grup-sirketleri h1 {
+        text-align: center;
+        margin-bottom: 40px;
+        color: #333;
+    }
+    
+    .sirket-container {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 30px;
+        justify-content: center;
+    }
+    
+    .sirket-card {
+        width: 300px;
+        border-radius: 10px;
+        overflow: hidden;
+        box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        transition: transform 0.3s;
+        background-color: #fff;
+    }
+    
+    .sirket-card:hover {
+        transform: translateY(-5px);
+    }
+    
+    .sirket-logo {
+        height: 160px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+        background-color: #f8f8f8;
+    }
+    
+    .sirket-logo img {
+        max-width: 100%;
+        max-height: 100%;
+    }
+    
+    .sirket-details {
+        padding: 20px;
+    }
+    
+    .sirket-details h3 {
+        margin-top: 0;
+        color: #333;
+        font-size: 18px;
+    }
+    
+    .sirket-details p {
+        color: #666;
+        font-size: 14px;
+        line-height: 1.5;
+    }
+    
+    @media (max-width: 768px) {
+        .sirket-card {
+            width: 100%;
+        }
+    }
+</style>
+
+<div class="grup-sirketleri">
+    <h1>Grup Şirketleri</h1>
+    
+    <div class="sirket-container">
+        <div class="sirket-card">
+            <div class="sirket-logo">
+                <img src="/images/logo/logo.png" alt="Volass İnşaat Logo">
+            </div>
+            <div class="sirket-details">
+                <h3>Volass İnşaat ve Taahhüt A.Ş.</h3>
+                <p>Grubumuzun ana şirketi olan Volass İnşaat, yüksek kaliteli konut projeleri, ticari yapılar ve altyapı çalışmalarında uzmanlaşmıştır.</p>
+            </div>
+        </div>
+        
+        <div class="sirket-card">
+            <div class="sirket-logo">
+                <img src="/images/logo/logo.png" alt="Volass Enerji Logo">
+            </div>
+            <div class="sirket-details">
+                <h3>Volass Enerji Üretim A.Ş.</h3>
+                <p>Sürdürülebilir enerji kaynakları ve yenilikçi enerji çözümleri alanında faaliyet gösteren şirketimiz.</p>
+            </div>
+        </div>
+        
+        <div class="sirket-card">
+            <div class="sirket-logo">
+                <img src="/images/logo/logo.png" alt="Volass Tasarım Logo">
+            </div>
+            <div class="sirket-details">
+                <h3>Volass Tasarım ve Mimarlık Ltd. Şti.</h3>
+                <p>Modern mimari çözümler ve yenilikçi tasarım anlayışıyla projelerinize değer katan tasarım ekibimiz.</p>
+            </div>
+        </div>
+        
+        <div class="sirket-card">
+            <div class="sirket-logo">
+                <img src="/images/logo/logo.png" alt="Volass Gayrimenkul Logo">
+            </div>
+            <div class="sirket-details">
+                <h3>Volass Gayrimenkul Yatırım A.Ş.</h3>
+                <p>Gayrimenkul sektöründe değer yaratan yatırımlar ve portföy yönetimi konusunda uzmanlaşmış şirketimiz.</p>
+            </div>
+        </div>
+    </div>
+</div> 
