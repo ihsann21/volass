@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://volassgrup.com/</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Hakkimizda</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Vizyon</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/cevreveis</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/kalitepolitika</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Katalog</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Faaliyetalani</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Faaliyetmuhendis</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Faaliyetmimar</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Faaliyetyatirim</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Projeler</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/TProjeler</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/DEProjeler</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Contact/Iletisim</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Index</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Cevreveis</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Kalitepolitika</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/video/yeni</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.80</priority>
+  <video:video>
+    <video:thumbnail_loc>https://volassgrup.com/images/videos/yeni-thumbnail.jpg</video:thumbnail_loc>
+    <video:title>Volass Grup Tanıtım Videosu</video:title>
+    <video:description>Volass Grup'un yeni projelerine dair tanıtım videosudur. İnşaat ve üst yapı çözümlerimiz hakkında genel bir bakış sunar.</video:description>
+    <video:content_loc>https://volassgrup.com/images/videos/yeni.mov</video:content_loc>
+    <video:duration>120</video:duration>
+    <video:publication_date>2024-05-08T08:00:01+00:00</video:publication_date>
+    <video:family_friendly>yes</video:family_friendly>
+    <video:requires_subscription>no</video:requires_subscription>
+  </video:video>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Projedetay3</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Projedetay8</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Projedetay2</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Projedetay1</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Projedetay4</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Projedetay5</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Projedetay19</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Projedetay20</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Projedetay6</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Projedetay7</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Projedetay9</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Projedetay10</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Projedetay11</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Projedetay12</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Projedetay13</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Projedetay14</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Projedetay15</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Projedetay16</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Projedetay17</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://volassgrup.com/Home/Projedetay18</loc>
+  <lastmod>2025-05-08T21:15:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+</urlset> 

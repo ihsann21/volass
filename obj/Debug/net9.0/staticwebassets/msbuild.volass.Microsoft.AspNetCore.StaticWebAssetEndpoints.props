@@ -3648,6 +3648,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1117"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 04 Jan 2025 12:32:49 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/volass/sitemap.trlke1f81k.xml">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\sitemap.xml'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"trlke1f81k"},{"Name":"integrity","Value":"sha256-x/LqRcMKqMDTMzOTD726gNGYkE/d6iByYX2clRrqJbE="},{"Name":"label","Value":"_content/volass/sitemap.xml"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6422"},{"Name":"Content-Type","Value":"text/xml"},{"Name":"ETag","Value":"\u0022x/LqRcMKqMDTMzOTD726gNGYkE/d6iByYX2clRrqJbE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 13 May 2025 21:23:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/volass/sitemap.xml">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\sitemap.xml'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-x/LqRcMKqMDTMzOTD726gNGYkE/d6iByYX2clRrqJbE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6422"},{"Name":"Content-Type","Value":"text/xml"},{"Name":"ETag","Value":"\u0022x/LqRcMKqMDTMzOTD726gNGYkE/d6iByYX2clRrqJbE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 13 May 2025 21:23:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/volass/volass.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\volass.jz3pscxc89.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

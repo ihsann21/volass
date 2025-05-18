@@ -1221,6 +1221,10 @@
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.map"
     },
     {
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/sitemap.xml",
+      "PackagePath": "staticwebassets/sitemap.xml"
+    },
+    {
       "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.volass.props",
       "PackagePath": "build\\volass.props"
     },

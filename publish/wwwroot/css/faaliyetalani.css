@@ -1,0 +1,102 @@
+/* Genel Stil */
+.faaliyetalani-page{
+    font-family: Arial, sans-serif;
+    background-color: transparent;
+}
+.faaliyet-alanlari-section {
+    font-family: Arial, sans-serif;
+    padding: 40px 20px;
+    text-align: center;
+    background-color: transparent;
+    background: url("/images/logo/bey.jpg") no-repeat center center;
+  background-size:cover ;
+    width: 100vw;
+    text-decoration: none;
+}
+
+.faaliyet-alanlari-section h1 {
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+    font-family: 'Josefin Sans', sans-serif ;
+    font-weight: 500; 
+    text-decoration: none;
+
+    color: #333;
+}
+
+/* Grid Yapısı */
+.faaliyet-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+/* Kart Stili */
+.faaliyet-card {
+    background-color: transparent;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.faaliyet-card:hover {
+    transform: translateY(-5px); /* Hover durumunda hafif yukarı kalkma efekti */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Görsel */
+.faaliyet-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+.header-background-faaliyet {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 400px; /* Üstte belirgin bir alan kaplasın */
+    background: url('/images/logo/faaliyet.jpg') no-repeat center center/cover; /* Görseli ekle */
+    
+    z-index: -1;
+}
+/* İçerik */
+.faaliyet-content {
+    padding: 15px;
+    text-align: left;
+    text-decoration: none; 
+}
+
+.faaliyet-content h3 {
+    font-size: 1.5rem;
+    margin: 0 0 10px;
+    color: black;
+    font-weight: bold;
+}
+
+.faaliyet-content p {
+    font-size: 1rem;
+    color: #555;
+    line-height: 1.5;
+    text-decoration: none;
+}
+
+/* Responsive Tasarım */
+@media (max-width: 768px) {
+    
+
+    .faaliyet-grid {
+        grid-template-columns: 1fr; /* Küçük ekranlarda tek sütun */
+    }
+
+    .faaliyet-content h3 {
+        font-size: 1.3rem; /* Küçük ekranlarda başlığı küçült */
+    }
+
+    .faaliyet-content p {
+        font-size: 0.9rem; /* Küçük ekranlarda metni küçült */
+    }
+}

@@ -1,0 +1,71 @@
+.cevresaglik-page {
+    font-family: Arial, sans-serif;
+    background-color: transparent;
+    margin: 0;
+    padding: 0;
+}
+
+.image-content-cevre {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    /* Arka planda kalsın */
+}
+
+.image-content-cevre img {
+    width: 100vw;
+    height: 400px;
+    object-fit: cover; /* Görselin tam oturmasını sağlar */
+}
+
+.content-section-cevre {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: url("/images/logo/bey.jpg") no-repeat center center;
+    background-size:cover ;
+    width: 100vw;
+    text-align: left;
+    padding: 60px 20px;
+}
+
+.text-content-cevre {
+    line-height: 1.6;
+    background-color: transparent; /* Okunabilirlik için arka plan ekleyelim */
+    padding: 20px;
+    margin-top: 375px;
+    border-radius: 10px;
+}
+
+.text-content-cevre h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #000;
+}
+
+.text-content-cevre ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.text-content-cevre ul li {
+    margin-bottom: 15px;
+    color: black;
+    font-size: 1.2rem;
+}
+
+.text-content-cevre ul li strong {
+    color: #000;
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    .text-content-cevre {
+        width: 90%;
+        text-align: center;
+    }
+}

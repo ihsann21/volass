@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CURZnhOPhStLco+CfGOGBZMHaMYhqdr2c4kH5ZgbTtw=",
+  "Hash": "xfaNo1q55+Z2xJyhxRYWErTBwSP92m0jMHt2W1KkZWQ=",
   "Source": "volass",
   "BasePath": "_content/volass",
   "Mode": "Default",
@@ -309,6 +309,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Identity": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Release/net9.0/compressed/8319a5kdz2-trlke1f81k.gz",
+      "SourceId": "volass",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Release/net9.0/compressed/",
+      "BasePath": "_content/volass",
+      "RelativePath": "sitemap#[.{fingerprint=trlke1f81k}]?.xml.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/sitemap.xml",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ftfi2gtwiy",
+      "Integrity": "bY0uDBnxu7X0zNjQKZdXUdNLxR2FAeqHXOnTKuPrbbc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/sitemap.xml"
     },
     {
       "Identity": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Release/net9.0/compressed/83eesoit8u-o1o13a6vjx.gz",
@@ -1611,6 +1632,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Identity": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Release/net9.0/compressed/publish/8319a5kdz2-trlke1f81k.br",
+      "SourceId": "volass",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Release/net9.0/compressed/publish/",
+      "BasePath": "_content/volass",
+      "RelativePath": "sitemap#[.{fingerprint=trlke1f81k}]?.xml.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/sitemap.xml",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "sojydh6i1p",
+      "Integrity": "1HalFHYan2fSTzthapEuE3me1hPiVqzWFaDopIgZ2v8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/sitemap.xml"
     },
     {
       "Identity": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Release/net9.0/compressed/publish/83eesoit8u-o1o13a6vjx.br",
@@ -10263,6 +10305,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Identity": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/sitemap.xml",
+      "SourceId": "volass",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/",
+      "BasePath": "_content/volass",
+      "RelativePath": "sitemap#[.{fingerprint}]?.xml",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "trlke1f81k",
+      "Integrity": "x/LqRcMKqMDTMzOTD726gNGYkE/d6iByYX2clRrqJbE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/sitemap.xml"
     }
   ],
   "Endpoints": [
@@ -73639,6 +73702,520 @@
         {
           "Name": "integrity",
           "Value": "sha256-F1wMlgb/juW08DFUssW6Pm9EBKfjXXRiSK0F5FgXxJU="
+        }
+      ]
+    },
+    {
+      "Route": "sitemap.trlke1f81k.xml",
+      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Release/net9.0/compressed/8319a5kdz2-trlke1f81k.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001270648030"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "786"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bY0uDBnxu7X0zNjQKZdXUdNLxR2FAeqHXOnTKuPrbbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 21:23:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"x/LqRcMKqMDTMzOTD726gNGYkE/d6iByYX2clRrqJbE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "trlke1f81k"
+        },
+        {
+          "Name": "label",
+          "Value": "sitemap.xml"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x/LqRcMKqMDTMzOTD726gNGYkE/d6iByYX2clRrqJbE="
+        }
+      ]
+    },
+    {
+      "Route": "sitemap.trlke1f81k.xml",
+      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Release/net9.0/compressed/publish/8319a5kdz2-trlke1f81k.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.001451378810"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "688"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1HalFHYan2fSTzthapEuE3me1hPiVqzWFaDopIgZ2v8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 21:23:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"x/LqRcMKqMDTMzOTD726gNGYkE/d6iByYX2clRrqJbE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "trlke1f81k"
+        },
+        {
+          "Name": "label",
+          "Value": "sitemap.xml"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x/LqRcMKqMDTMzOTD726gNGYkE/d6iByYX2clRrqJbE="
+        }
+      ]
+    },
+    {
+      "Route": "sitemap.trlke1f81k.xml",
+      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/sitemap.xml",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6422"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x/LqRcMKqMDTMzOTD726gNGYkE/d6iByYX2clRrqJbE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 21:23:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "trlke1f81k"
+        },
+        {
+          "Name": "label",
+          "Value": "sitemap.xml"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x/LqRcMKqMDTMzOTD726gNGYkE/d6iByYX2clRrqJbE="
+        }
+      ]
+    },
+    {
+      "Route": "sitemap.trlke1f81k.xml.br",
+      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Release/net9.0/compressed/publish/8319a5kdz2-trlke1f81k.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "688"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1HalFHYan2fSTzthapEuE3me1hPiVqzWFaDopIgZ2v8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 21:23:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "trlke1f81k"
+        },
+        {
+          "Name": "label",
+          "Value": "sitemap.xml.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1HalFHYan2fSTzthapEuE3me1hPiVqzWFaDopIgZ2v8="
+        }
+      ]
+    },
+    {
+      "Route": "sitemap.trlke1f81k.xml.gz",
+      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Release/net9.0/compressed/8319a5kdz2-trlke1f81k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "786"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bY0uDBnxu7X0zNjQKZdXUdNLxR2FAeqHXOnTKuPrbbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 21:23:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "trlke1f81k"
+        },
+        {
+          "Name": "label",
+          "Value": "sitemap.xml.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bY0uDBnxu7X0zNjQKZdXUdNLxR2FAeqHXOnTKuPrbbc="
+        }
+      ]
+    },
+    {
+      "Route": "sitemap.xml",
+      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Release/net9.0/compressed/8319a5kdz2-trlke1f81k.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001270648030"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "786"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bY0uDBnxu7X0zNjQKZdXUdNLxR2FAeqHXOnTKuPrbbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 21:23:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"x/LqRcMKqMDTMzOTD726gNGYkE/d6iByYX2clRrqJbE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x/LqRcMKqMDTMzOTD726gNGYkE/d6iByYX2clRrqJbE="
+        }
+      ]
+    },
+    {
+      "Route": "sitemap.xml",
+      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Release/net9.0/compressed/publish/8319a5kdz2-trlke1f81k.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.001451378810"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "688"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1HalFHYan2fSTzthapEuE3me1hPiVqzWFaDopIgZ2v8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 21:23:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"x/LqRcMKqMDTMzOTD726gNGYkE/d6iByYX2clRrqJbE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x/LqRcMKqMDTMzOTD726gNGYkE/d6iByYX2clRrqJbE="
+        }
+      ]
+    },
+    {
+      "Route": "sitemap.xml",
+      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/sitemap.xml",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6422"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x/LqRcMKqMDTMzOTD726gNGYkE/d6iByYX2clRrqJbE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 21:23:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x/LqRcMKqMDTMzOTD726gNGYkE/d6iByYX2clRrqJbE="
+        }
+      ]
+    },
+    {
+      "Route": "sitemap.xml.br",
+      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Release/net9.0/compressed/publish/8319a5kdz2-trlke1f81k.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "688"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1HalFHYan2fSTzthapEuE3me1hPiVqzWFaDopIgZ2v8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 21:23:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1HalFHYan2fSTzthapEuE3me1hPiVqzWFaDopIgZ2v8="
+        }
+      ]
+    },
+    {
+      "Route": "sitemap.xml.gz",
+      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Release/net9.0/compressed/8319a5kdz2-trlke1f81k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "786"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bY0uDBnxu7X0zNjQKZdXUdNLxR2FAeqHXOnTKuPrbbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 21:23:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bY0uDBnxu7X0zNjQKZdXUdNLxR2FAeqHXOnTKuPrbbc="
         }
       ]
     },

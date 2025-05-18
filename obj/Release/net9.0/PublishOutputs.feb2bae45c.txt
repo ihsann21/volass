@@ -1,0 +1,5 @@
+/Users/ihsantanriverdi/Desktop/volass/volass/publish/volass
+/Users/ihsantanriverdi/Desktop/volass/volass/publish/volass.dll
+/Users/ihsantanriverdi/Desktop/volass/volass/publish/volass.deps.json
+/Users/ihsantanriverdi/Desktop/volass/volass/publish/volass.runtimeconfig.json
+/Users/ihsantanriverdi/Desktop/volass/volass/publish/volass.pdb

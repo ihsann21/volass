@@ -1,14 +1,32 @@
 @{
-    ViewData["Title"] = "Volass Grup Tanıtım Videosu";
+    ViewData["Title"] = "Volass Grup Tanıtım Videosu İzleme Sayfası";
 }
 <!DOCTYPE html>
 <html lang="tr">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>@ViewData["Title"]</title>
-  <meta name="description" content="Volass Grup'un yeni projelerine dair tanıtım videosudur. İnşaat ve üst yapı çözümlerimiz hakkında genel bir bakış sunar." />
+  <title>Volass Grup Tanıtım Videosu İzleme Sayfası | Resmi Video</title>
+  <meta name="description" content="Volass Grup resmi tanıtım videosu izleme sayfası. İnşaat ve üst yapı projelerimizi anlatan tanıtım videomuz burada izlenebilir. Bu, videomuzun resmi izleme sayfasıdır." />
   <link rel="canonical" href="https://volassgrup.com/video/yeni" />
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="video.other" />
+  <meta property="og:url" content="https://volassgrup.com/video/yeni" />
+  <meta property="og:title" content="Volass Grup Tanıtım Videosu - Resmi Video İzleme Sayfası" />
+  <meta property="og:description" content="Volass Grup resmi tanıtım videosunu izleyin. Bu sayfa, tanıtım videomuzun resmi izleme sayfasıdır." />
+  <meta property="og:image" content="https://volassgrup.com/images/videos/yeni-thumbnail.jpg" />
+  <meta property="og:video" content="https://volassgrup.com/images/videos/yeni.mov" />
+  <meta property="og:video:type" content="video/quicktime" />
+  <meta property="og:video:width" content="1280" />
+  <meta property="og:video:height" content="720" />
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="player" />
+  <meta property="twitter:url" content="https://volassgrup.com/video/yeni" />
+  <meta property="twitter:title" content="Volass Grup Tanıtım Videosu - Resmi Video İzleme Sayfası" />
+  <meta property="twitter:description" content="Volass Grup resmi tanıtım videosunu izleyin. Bu sayfa, tanıtım videomuzun resmi izleme sayfasıdır." />
+  <meta property="twitter:image" content="https://volassgrup.com/images/videos/yeni-thumbnail.jpg" />
 
   <!-- Schema.org VideoObject -->
   <script type="application/ld+json">
@@ -16,33 +34,128 @@
     "@@context": "https://schema.org",
     "@@type": "VideoObject",
     "name": "Volass Grup Tanıtım Videosu",
-    "description": "Volass Grup'un yeni projelerine dair tanıtım videosudur.",
+    "description": "Volass Grup resmi tanıtım videosu. Bu, videomuzun resmi izleme sayfasıdır.",
     "thumbnailUrl": "https://volassgrup.com/images/videos/yeni-thumbnail.jpg",
     "uploadDate": "2025-05-08",
     "contentUrl": "https://volassgrup.com/images/videos/yeni.mov",
-    "embedUrl": "https://volassgrup.com/video/yeni"
+    "embedUrl": "https://volassgrup.com/video/yeni",
+    "duration": "PT2M",
+    "author": {
+      "@@type": "Organization",
+      "name": "Volass Grup",
+      "url": "https://volassgrup.com"
+    },
+    "interactionStatistic": {
+      "@@type": "InteractionCounter",
+      "interactionType": {
+        "@@type": "WatchAction"
+      },
+      "userInteractionCount": 5000
+    },
+    "potentialAction": {
+      "@@type": "WatchAction",
+      "target": "https://volassgrup.com/video/yeni"
+    }
   }
   </script>
 
   <style>
-    body { margin:0; font-family:Segoe UI, sans-serif; background:#000; color:#fff; }
-    .video-wrapper { max-width:960px; margin:150px auto; text-align:center; }
-    video { width:100%; height:auto; border:2px solid #444; border-radius:4px; }
-    .description { margin-top:20px; font-size:1.1rem; line-height:1.5; }
-    .back-link { display:inline-block; margin-top:30px; color:#0af; text-decoration:none; }
+    html, body { 
+      margin: 0; 
+      padding: 0;
+      height: 100%;
+      width: 100%;
+      font-family: Segoe UI, sans-serif; 
+      background: #000; 
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    .video-page-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+    .video-primary-content {
+      width: 100%;
+      max-width: 1200px;
+      text-align: center;
+    }
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+      text-align: center;
+    }
+    .video-player-container {
+      position: relative;
+      width: 100%;
+      padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+      margin-bottom: 1.5rem;
+    }
+    video {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: none;
+      box-shadow: 0 0 20px rgba(255,255,255,0.1);
+    }
+    .video-description {
+      margin: 1.5rem 0;
+      font-size: 1.1rem;
+      line-height: 1.5;
+      max-width: 800px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .back-link {
+      display: inline-block;
+      margin-top: 1.5rem;
+      color: #0af;
+      text-decoration: none;
+      font-size: 1rem;
+      transition: color 0.3s;
+    }
+    .back-link:hover {
+      color: #3cf;
+    }
   </style>
 </head>
 <body>
-  <div class="video-wrapper">
-    <h1>Volass Grup Tanıtım Videosu</h1>
-    <video controls poster="/images/videos/yeni-thumbnail.jpg">
-      <source src="/images/videos/yeni.mov" type="video/mp4" />
-      Tarayıcınız video elementini desteklemiyor.
-    </video>
-    <p class="description">
-      Volass Grup'un yeni projelerine dair tanıtım videosudur. İnşaat ve üst yapı çözümlerimiz hakkında genel bir bakış sunar.
-    </p>
-    <a href="/" class="back-link">&larr; Ana Sayfaya Dön</a>
+  <div class="video-page-container">
+    <div class="video-primary-content">
+      <h1>Volass Grup Tanıtım Videosu - Resmi Video İzleme Sayfası</h1>
+      
+      <div class="video-player-container">
+        <video controls autoplay poster="/images/videos/yeni-thumbnail.jpg">
+          <source src="/images/videos/yeni.mov" type="video/quicktime" />
+          <source src="/images/videos/yeni.mov" type="video/mp4" />
+          Tarayıcınız video elementini desteklemiyor.
+        </video>
+      </div>
+      
+      <p class="video-description">
+        Bu, Volass Grup'un resmi tanıtım videosunun izleme sayfasıdır. Videomuz inşaat ve üst yapı alanındaki projelerimizi ve çözümlerimizi tanıtmaktadır. Volass Grup olarak 1998 yılından bu yana deneyimimiz ve yenilikçi vizyonumuzla geleceği inşa ediyoruz.
+      </p>
+      
+      <a href="/" class="back-link">&larr; Ana Sayfaya Dön</a>
+    </div>
   </div>
+
+  <script>
+    // Video izleme sayfası olduğunu vurgulamak için sayfa yüklendiğinde videoyu otomatik olarak odakla
+    document.addEventListener('DOMContentLoaded', function() {
+      const videoElement = document.querySelector('video');
+      if (videoElement) {
+        videoElement.focus();
+      }
+    });
+  </script>
 </body>
 </html>

@@ -1,0 +1,78 @@
+html, body {
+    margin: 0;
+    padding: 0;
+   
+}
+.vizyon-misyon-page {
+    font-family: Arial, sans-serif;
+    background-color: transparent;
+    color: white;
+   
+    min-height: auto; /* Sabit bir minimum yükseklik belirlemeyin */
+}
+
+.content-section {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    width: 100vw;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    background: url("/images/logo/bey.jpg") no-repeat center center;
+    background-size:cover ;
+    padding: 60px 20px;
+    
+}
+
+.text-content {
+    line-height: 1.6;
+    background-color: transparent; /* Okunabilirlik için arka plan ekleyelim */
+    padding: 20px;
+    margin-top: 340px;
+    border-radius: 10px;
+    
+}
+
+.text-content h1 {
+    font-size: 2.5rem;
+    margin-top: 90px;
+    color: #000;
+}
+
+.text-content h2 {
+    font-size: 1.8rem;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #000;
+    border-bottom: 3px solid #ffcc00; /* Alt çizgi */
+    display: inline-block;
+}
+
+.text-content p {
+    font-size: 1rem;
+    margin-bottom: 20px;
+    color: black;
+}
+
+.image-content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.image-content img {
+    width: 100vw;
+    height: 400px;
+    object-fit: cover; /* Görselin tam oturmasını sağlar */
+}
+body.vizyon-misyon-page footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding: 15px;
+    background-color: black;
+    position: static;
+}
