@@ -3636,24 +3636,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\tasarım.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\videos\yeni.mov'))">
-      <SourceType>Package</SourceType>
-      <SourceId>volass</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/volass</BasePath>
-      <RelativePath>images/videos/yeni.mov</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>xdp1i47rc1</Fingerprint>
-      <Integrity>xUhTmj5RuO458WgZpAfIsdQc3uS5A/03xmaiykkpjaw=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\videos\yeni.mov'))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\videos\yeni-thumbnail.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>volass</SourceId>
@@ -5484,8 +5466,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>trlke1f81k</Fingerprint>
-      <Integrity>x/LqRcMKqMDTMzOTD726gNGYkE/d6iByYX2clRrqJbE=</Integrity>
+      <Fingerprint>0fuf9ji3r3</Fingerprint>
+      <Integrity>vPwsA43zn2VLPAaHmDXgD9DVqUnVN5BR9qk8ZYEcYig=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\sitemap.xml'))</OriginalItemSpec>

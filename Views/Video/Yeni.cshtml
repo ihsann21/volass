@@ -17,7 +17,7 @@
   <meta property="og:description" content="Volass Grup resmi tanıtım videosunu izleyin. Bu sayfa, tanıtım videomuzun resmi izleme sayfasıdır." />
   <meta property="og:image" content="https://volassgrup.com/images/videos/yeni-thumbnail.jpg" />
   <meta property="og:video" content="https://youtu.be/MUtprZb1oXE" />
-  <meta property="og:video:type" content="video/quicktime" />
+  <meta property="og:video:type" content="text/html" />
   <meta property="og:video:width" content="1280" />
   <meta property="og:video:height" content="720" />
 
@@ -38,7 +38,7 @@
     "thumbnailUrl": "https://volassgrup.com/images/videos/yeni-thumbnail.jpg",
     "uploadDate": "2025-05-08",
     "contentUrl": "https://youtu.be/MUtprZb1oXE",
-    "embedUrl": "https://youtu.be/MUtprZb1oXE",
+    "embedUrl": "https://www.youtube.com/embed/MUtprZb1oXE",
     "duration": "PT2M",
     "author": {
       "@@type": "Organization",
@@ -97,7 +97,7 @@
       padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
       margin-bottom: 1.5rem;
     }
-    video {
+    .video-player-container iframe {
       position: absolute;
       top: 0;
       left: 0;
@@ -133,18 +133,20 @@
       <h1>Volass Grup Tanıtım Videosu - Resmi Video İzleme Sayfası</h1>
       
       <div class="video-player-container">
-        <video controls autoplay poster="/images/videos/yeni-thumbnail.jpg">
-          <source src="https://youtu.be/MUtprZb1oXE" type="video/quicktime" />
-      <source src="https://youtu.be/MUtprZb1oXE" type="video/mp4" />
-      Tarayıcınız video elementini desteklemiyor.
-    </video>
+        <iframe 
+          src="https://www.youtube.com/embed/MUtprZb1oXE" 
+          title="Volass Grup Tanıtım Videosu"
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
       </div>
       
       <p class="video-description">
         Bu, Volass Grup'un resmi tanıtım videosunun izleme sayfasıdır. Videomuz inşaat ve üst yapı alanındaki projelerimizi ve çözümlerimizi tanıtmaktadır. Volass Grup olarak 1998 yılından bu yana deneyimimiz ve yenilikçi vizyonumuzla geleceği inşa ediyoruz.
-    </p>
+      </p>
       
-    <a href="/" class="back-link">&larr; Ana Sayfaya Dön</a>
+      <a href="/" class="back-link">&larr; Ana Sayfaya Dön</a>
     </div>
   </div>
 

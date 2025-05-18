@@ -368,4 +368,4 @@
 /Users/ihsantanriverdi/Desktop/volass/volass/bin/Debug/net9.0/publish/volass.deps.json
 /Users/ihsantanriverdi/Desktop/volass/volass/bin/Debug/net9.0/publish/volass.runtimeconfig.json
 /Users/ihsantanriverdi/Desktop/volass/volass/bin/Debug/net9.0/publish/volass.staticwebassets.endpoints.json
-/Users/ihsantanriverdi/Desktop/volass/volass/obj/Debug/net9.0/compressed/8319a5kdz2-trlke1f81k.gz
+/Users/ihsantanriverdi/Desktop/volass/volass/obj/Debug/net9.0/compressed/8319a5kdz2-0fuf9ji3r3.gz
