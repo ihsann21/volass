@@ -817,6 +817,10 @@
       "PackagePath": "staticwebassets/images/videos/yeni-thumbnail.jpg"
     },
     {
+      "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/videos/yeni.mov",
+      "PackagePath": "staticwebassets/images/videos/yeni.mov"
+    },
+    {
       "Id": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/vizyon.jpg",
       "PackagePath": "staticwebassets/images/vizyon.jpg"
     },

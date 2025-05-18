@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "T/s4wWYu4A1uM2SDWSBVBi3scrPmKWUWVzjsUN+kicI=",
+  "Hash": "gzY55uNI7+o8Sf+SgvORNk7LKjpkWvUj1IDkrC9ZEWg=",
   "Source": "volass",
   "BasePath": "_content/volass",
   "Mode": "Default",
@@ -311,12 +311,12 @@
       "OriginalItemSpec": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Debug/net9.0/compressed/8319a5kdz2-0fuf9ji3r3.gz",
+      "Identity": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Debug/net9.0/compressed/8319a5kdz2-z9vkezjwa9.gz",
       "SourceId": "volass",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/volass",
-      "RelativePath": "sitemap#[.{fingerprint=0fuf9ji3r3}]?.xml.gz",
+      "RelativePath": "sitemap#[.{fingerprint=z9vkezjwa9}]?.xml.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -325,8 +325,8 @@
       "RelatedAsset": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/sitemap.xml",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5cv57rst4a",
-      "Integrity": "Gx/6JLTO8pPmXU0k7q+U0WWjNHNO6pPHN91hOwwV374=",
+      "Fingerprint": "5k702r1zp7",
+      "Integrity": "RYQpPghzmWIX12bJjAgh9S7ATcnYksrqSdJBShTAtRc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/sitemap.xml"
@@ -1529,12 +1529,12 @@
       "OriginalItemSpec": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Debug/net9.0/compressed/txnpif8ns6-kvifkqygtw.gz",
+      "Identity": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Debug/net9.0/compressed/txnpif8ns6-1cdj0rn15p.gz",
       "SourceId": "volass",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/volass",
-      "RelativePath": "css/site#[.{fingerprint=kvifkqygtw}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=1cdj0rn15p}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1543,8 +1543,8 @@
       "RelatedAsset": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/css/site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "4j4nsc6o4s",
-      "Integrity": "UN2dGYm6qELTz5Qmb8B4Yk/bnURNGZWoYgQwCi5XILA=",
+      "Fingerprint": "lcv4gqeqtd",
+      "Integrity": "tY94a9Q0uycG7aMeGppPP4QDwxJJtYED/XJi6nH//3M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/css/site.css"
@@ -2236,8 +2236,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "kvifkqygtw",
-      "Integrity": "sJY+Cc8fHCeDeyuQ12SIir9T206SdKJsW9i/jN0lw9Y=",
+      "Fingerprint": "1cdj0rn15p",
+      "Integrity": "QcYOkBMK8h4mgtPvvhAgNI24wXTKSp5H3KgsBxvHkVQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/site.css"
@@ -6254,6 +6254,27 @@
       "OriginalItemSpec": "wwwroot/images/videos/yeni-thumbnail.jpg"
     },
     {
+      "Identity": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/videos/yeni.mov",
+      "SourceId": "volass",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/",
+      "BasePath": "_content/volass",
+      "RelativePath": "images/videos/yeni#[.{fingerprint}]?.mov",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xdp1i47rc1",
+      "Integrity": "xUhTmj5RuO458WgZpAfIsdQc3uS5A/03xmaiykkpjaw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/videos/yeni.mov"
+    },
+    {
       "Identity": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/vizyon.jpg",
       "SourceId": "volass",
       "SourceType": "Discovered",
@@ -8368,8 +8389,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "0fuf9ji3r3",
-      "Integrity": "vPwsA43zn2VLPAaHmDXgD9DVqUnVN5BR9qk8ZYEcYig=",
+      "Fingerprint": "z9vkezjwa9",
+      "Integrity": "qbqxW1An/ArVU1mM5uxpsp0+Gffh+AE/langrR9GZoA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/sitemap.xml"
@@ -11655,13 +11676,13 @@
       ]
     },
     {
-      "Route": "css/site.css",
-      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Debug/net9.0/compressed/txnpif8ns6-kvifkqygtw.gz",
+      "Route": "css/site.1cdj0rn15p.css",
+      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Debug/net9.0/compressed/txnpif8ns6-1cdj0rn15p.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000179147259"
+          "Quality": "0.000174855744"
         }
       ],
       "ResponseHeaders": [
@@ -11671,19 +11692,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5581"
+          "Value": "5718"
         },
         {
           "Name": "ETag",
-          "Value": "\"UN2dGYm6qELTz5Qmb8B4Yk/bnURNGZWoYgQwCi5XILA=\""
+          "Value": "\"tY94a9Q0uycG7aMeGppPP4QDwxJJtYED/XJi6nH//3M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 10:43:07 GMT"
+          "Value": "Sun, 18 May 2025 11:25:10 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -11699,18 +11720,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"sJY+Cc8fHCeDeyuQ12SIir9T206SdKJsW9i/jN0lw9Y=\""
+          "Value": "W/\"QcYOkBMK8h4mgtPvvhAgNI24wXTKSp5H3KgsBxvHkVQ=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "1cdj0rn15p"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-sJY+Cc8fHCeDeyuQ12SIir9T206SdKJsW9i/jN0lw9Y="
+          "Value": "sha256-QcYOkBMK8h4mgtPvvhAgNI24wXTKSp5H3KgsBxvHkVQ="
         }
       ]
     },
     {
-      "Route": "css/site.css",
+      "Route": "css/site.1cdj0rn15p.css",
       "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -11720,7 +11749,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22150"
+          "Value": "22671"
         },
         {
           "Name": "Content-Type",
@@ -11728,121 +11757,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sJY+Cc8fHCeDeyuQ12SIir9T206SdKJsW9i/jN0lw9Y=\""
+          "Value": "\"QcYOkBMK8h4mgtPvvhAgNI24wXTKSp5H3KgsBxvHkVQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 10:43:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-sJY+Cc8fHCeDeyuQ12SIir9T206SdKJsW9i/jN0lw9Y="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Debug/net9.0/compressed/txnpif8ns6-kvifkqygtw.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5581"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UN2dGYm6qELTz5Qmb8B4Yk/bnURNGZWoYgQwCi5XILA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 10:43:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-UN2dGYm6qELTz5Qmb8B4Yk/bnURNGZWoYgQwCi5XILA="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.kvifkqygtw.css",
-      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Debug/net9.0/compressed/txnpif8ns6-kvifkqygtw.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000179147259"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5581"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UN2dGYm6qELTz5Qmb8B4Yk/bnURNGZWoYgQwCi5XILA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 10:43:07 GMT"
+          "Value": "Sun, 18 May 2025 11:25:10 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"sJY+Cc8fHCeDeyuQ12SIir9T206SdKJsW9i/jN0lw9Y=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kvifkqygtw"
+          "Value": "1cdj0rn15p"
         },
         {
           "Name": "label",
@@ -11850,13 +11779,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-sJY+Cc8fHCeDeyuQ12SIir9T206SdKJsW9i/jN0lw9Y="
+          "Value": "sha256-QcYOkBMK8h4mgtPvvhAgNI24wXTKSp5H3KgsBxvHkVQ="
         }
       ]
     },
     {
-      "Route": "css/site.kvifkqygtw.css",
-      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/css/site.css",
+      "Route": "css/site.1cdj0rn15p.css.gz",
+      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Debug/net9.0/compressed/txnpif8ns6-1cdj0rn15p.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11865,7 +11794,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22150"
+          "Value": "5718"
         },
         {
           "Name": "Content-Type",
@@ -11873,56 +11802,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sJY+Cc8fHCeDeyuQ12SIir9T206SdKJsW9i/jN0lw9Y=\""
+          "Value": "\"tY94a9Q0uycG7aMeGppPP4QDwxJJtYED/XJi6nH//3M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 10:43:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "kvifkqygtw"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-sJY+Cc8fHCeDeyuQ12SIir9T206SdKJsW9i/jN0lw9Y="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.kvifkqygtw.css.gz",
-      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Debug/net9.0/compressed/txnpif8ns6-kvifkqygtw.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5581"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UN2dGYm6qELTz5Qmb8B4Yk/bnURNGZWoYgQwCi5XILA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 10:43:07 GMT"
+          "Value": "Sun, 18 May 2025 11:25:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11940,7 +11824,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kvifkqygtw"
+          "Value": "1cdj0rn15p"
         },
         {
           "Name": "label",
@@ -11948,7 +11832,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UN2dGYm6qELTz5Qmb8B4Yk/bnURNGZWoYgQwCi5XILA="
+          "Value": "sha256-tY94a9Q0uycG7aMeGppPP4QDwxJJtYED/XJi6nH//3M="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Debug/net9.0/compressed/txnpif8ns6-1cdj0rn15p.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000174855744"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5718"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tY94a9Q0uycG7aMeGppPP4QDwxJJtYED/XJi6nH//3M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 11:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"QcYOkBMK8h4mgtPvvhAgNI24wXTKSp5H3KgsBxvHkVQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QcYOkBMK8h4mgtPvvhAgNI24wXTKSp5H3KgsBxvHkVQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22671"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QcYOkBMK8h4mgtPvvhAgNI24wXTKSp5H3KgsBxvHkVQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 11:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QcYOkBMK8h4mgtPvvhAgNI24wXTKSp5H3KgsBxvHkVQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Debug/net9.0/compressed/txnpif8ns6-1cdj0rn15p.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5718"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tY94a9Q0uycG7aMeGppPP4QDwxJJtYED/XJi6nH//3M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 11:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tY94a9Q0uycG7aMeGppPP4QDwxJJtYED/XJi6nH//3M="
         }
       ]
     },
@@ -29555,6 +29576,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-WFnmnMi777lYcU7b30hYtEe+9n3dYkyPvdjvlWo0LE4="
+        }
+      ]
+    },
+    {
+      "Route": "images/videos/yeni.mov",
+      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/videos/yeni.mov",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4308848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/quicktime"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xUhTmj5RuO458WgZpAfIsdQc3uS5A/03xmaiykkpjaw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 11:54:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xUhTmj5RuO458WgZpAfIsdQc3uS5A/03xmaiykkpjaw="
+        }
+      ]
+    },
+    {
+      "Route": "images/videos/yeni.xdp1i47rc1.mov",
+      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/images/videos/yeni.mov",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4308848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/quicktime"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xUhTmj5RuO458WgZpAfIsdQc3uS5A/03xmaiykkpjaw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 11:54:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xdp1i47rc1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/videos/yeni.mov"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xUhTmj5RuO458WgZpAfIsdQc3uS5A/03xmaiykkpjaw="
         }
       ]
     },
@@ -52447,13 +52550,13 @@
       ]
     },
     {
-      "Route": "sitemap.0fuf9ji3r3.xml",
-      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Debug/net9.0/compressed/8319a5kdz2-0fuf9ji3r3.gz",
+      "Route": "sitemap.xml",
+      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Debug/net9.0/compressed/8319a5kdz2-z9vkezjwa9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001124859393"
+          "Quality": "0.001142857143"
         }
       ],
       "ResponseHeaders": [
@@ -52463,19 +52566,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "888"
+          "Value": "874"
         },
         {
           "Name": "ETag",
-          "Value": "\"Gx/6JLTO8pPmXU0k7q+U0WWjNHNO6pPHN91hOwwV374=\""
+          "Value": "\"RYQpPghzmWIX12bJjAgh9S7ATcnYksrqSdJBShTAtRc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 11:07:18 GMT"
+          "Value": "Sun, 18 May 2025 12:02:50 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -52491,26 +52594,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"vPwsA43zn2VLPAaHmDXgD9DVqUnVN5BR9qk8ZYEcYig=\""
+          "Value": "W/\"qbqxW1An/ArVU1mM5uxpsp0+Gffh+AE/langrR9GZoA=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "0fuf9ji3r3"
-        },
-        {
-          "Name": "label",
-          "Value": "sitemap.xml"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-vPwsA43zn2VLPAaHmDXgD9DVqUnVN5BR9qk8ZYEcYig="
+          "Value": "sha256-qbqxW1An/ArVU1mM5uxpsp0+Gffh+AE/langrR9GZoA="
         }
       ]
     },
     {
-      "Route": "sitemap.0fuf9ji3r3.xml",
+      "Route": "sitemap.xml",
       "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/sitemap.xml",
       "Selectors": [],
       "ResponseHeaders": [
@@ -52520,7 +52615,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6161"
+          "Value": "6178"
         },
         {
           "Name": "Content-Type",
@@ -52528,11 +52623,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vPwsA43zn2VLPAaHmDXgD9DVqUnVN5BR9qk8ZYEcYig=\""
+          "Value": "\"qbqxW1An/ArVU1mM5uxpsp0+Gffh+AE/langrR9GZoA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 11:07:18 GMT"
+          "Value": "Sun, 18 May 2025 12:02:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qbqxW1An/ArVU1mM5uxpsp0+Gffh+AE/langrR9GZoA="
+        }
+      ]
+    },
+    {
+      "Route": "sitemap.xml.gz",
+      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Debug/net9.0/compressed/8319a5kdz2-z9vkezjwa9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "874"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RYQpPghzmWIX12bJjAgh9S7ATcnYksrqSdJBShTAtRc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 12:02:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RYQpPghzmWIX12bJjAgh9S7ATcnYksrqSdJBShTAtRc="
+        }
+      ]
+    },
+    {
+      "Route": "sitemap.z9vkezjwa9.xml",
+      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Debug/net9.0/compressed/8319a5kdz2-z9vkezjwa9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001142857143"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "874"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RYQpPghzmWIX12bJjAgh9S7ATcnYksrqSdJBShTAtRc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 12:02:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qbqxW1An/ArVU1mM5uxpsp0+Gffh+AE/langrR9GZoA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z9vkezjwa9"
+        },
+        {
+          "Name": "label",
+          "Value": "sitemap.xml"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qbqxW1An/ArVU1mM5uxpsp0+Gffh+AE/langrR9GZoA="
+        }
+      ]
+    },
+    {
+      "Route": "sitemap.z9vkezjwa9.xml",
+      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/sitemap.xml",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qbqxW1An/ArVU1mM5uxpsp0+Gffh+AE/langrR9GZoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 12:02:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -52542,7 +52782,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0fuf9ji3r3"
+          "Value": "z9vkezjwa9"
         },
         {
           "Name": "label",
@@ -52550,13 +52790,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vPwsA43zn2VLPAaHmDXgD9DVqUnVN5BR9qk8ZYEcYig="
+          "Value": "sha256-qbqxW1An/ArVU1mM5uxpsp0+Gffh+AE/langrR9GZoA="
         }
       ]
     },
     {
-      "Route": "sitemap.0fuf9ji3r3.xml.gz",
-      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Debug/net9.0/compressed/8319a5kdz2-0fuf9ji3r3.gz",
+      "Route": "sitemap.z9vkezjwa9.xml.gz",
+      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Debug/net9.0/compressed/8319a5kdz2-z9vkezjwa9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -52565,7 +52805,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "888"
+          "Value": "874"
         },
         {
           "Name": "Content-Type",
@@ -52573,11 +52813,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Gx/6JLTO8pPmXU0k7q+U0WWjNHNO6pPHN91hOwwV374=\""
+          "Value": "\"RYQpPghzmWIX12bJjAgh9S7ATcnYksrqSdJBShTAtRc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 11:07:18 GMT"
+          "Value": "Sun, 18 May 2025 12:02:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -52595,7 +52835,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0fuf9ji3r3"
+          "Value": "z9vkezjwa9"
         },
         {
           "Name": "label",
@@ -52603,144 +52843,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Gx/6JLTO8pPmXU0k7q+U0WWjNHNO6pPHN91hOwwV374="
-        }
-      ]
-    },
-    {
-      "Route": "sitemap.xml",
-      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Debug/net9.0/compressed/8319a5kdz2-0fuf9ji3r3.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001124859393"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "888"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Gx/6JLTO8pPmXU0k7q+U0WWjNHNO6pPHN91hOwwV374=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 11:07:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"vPwsA43zn2VLPAaHmDXgD9DVqUnVN5BR9qk8ZYEcYig=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-vPwsA43zn2VLPAaHmDXgD9DVqUnVN5BR9qk8ZYEcYig="
-        }
-      ]
-    },
-    {
-      "Route": "sitemap.xml",
-      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/wwwroot/sitemap.xml",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6161"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vPwsA43zn2VLPAaHmDXgD9DVqUnVN5BR9qk8ZYEcYig=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 11:07:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-vPwsA43zn2VLPAaHmDXgD9DVqUnVN5BR9qk8ZYEcYig="
-        }
-      ]
-    },
-    {
-      "Route": "sitemap.xml.gz",
-      "AssetFile": "/Users/ihsantanriverdi/Desktop/volass/volass/obj/Debug/net9.0/compressed/8319a5kdz2-0fuf9ji3r3.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "888"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Gx/6JLTO8pPmXU0k7q+U0WWjNHNO6pPHN91hOwwV374=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 11:07:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Gx/6JLTO8pPmXU0k7q+U0WWjNHNO6pPHN91hOwwV374="
+          "Value": "sha256-RYQpPghzmWIX12bJjAgh9S7ATcnYksrqSdJBShTAtRc="
         }
       ]
     },
